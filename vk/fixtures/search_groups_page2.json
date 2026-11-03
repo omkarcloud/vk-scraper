@@ -1,0 +1,1278 @@
+{
+ "response": {
+  "section": {
+   "id": "PUldVA8WDBQpHhkFakcOBzQIASlDBjQRIwlLWhcBSVxkNF9FFxhJX2RRWFoXA0lcZBsQAl1bBURqSVpHFw5JEygPDBBcWg4CZEdLRQwWUVd_XV5PAAZYUnFSUEMDBltTdF0U",
+   "title": "",
+   "blocks": [
+    {
+     "id": "PUlQVA8GR0R3W0tMF0cOBzQIASlaQAMDNDQOBFpBGxUZHAACXVseEhkMDBkXGElVd0lTVEBaDwMgAgcTURZHRHFJU1RFTR8OKQVLWhcHUkR8WlBAAg1eVHVfXk8MAV1Udl5bQBkWXkR8STZABhZHRHJJU1RSRgQTNhg2BVBVGQUuNB9EakMOBGRHS0cAFlFXaklaRBcOXRs",
+     "data_type": "groups_items",
+     "layout": {
+      "name": "list"
+     },
+     "next_from": "PUlYVA8AWxs",
+     "group_items": [
+      {
+       "id": 184309646,
+       "track_code": "38810038352MZs-4P3GXRQ0tvp34Ri9a71P_ex64jQyM9nN81imabGKnSXCI5m8pbSy4luhUGVPvWPUIcfTOV9CaLDGIeN41aLRUbp3nNg"
+      },
+      {
+       "id": 230050227,
+       "city": "Saint Petersburg",
+       "track_code": "186da7b9FDwn_Vz0qunblINwvXxVX8B3_7dbB8k_uzYI-993oFVRzck82jwdfiP443G7d0VN9n7_vFJ0pnP7ZlCUhTP6AhSUwy_HIgh_eg"
+      },
+      {
+       "id": 216933140,
+       "city": "Saint Petersburg",
+       "track_code": "ea17dc70Wcd7qIznGDXclitxbLehTMU2gSJXWPzNXJlem3b5bGscNpVpCi-voiT6S3BqvLFe8z-BKV8rk4EcywD9Kr41Ol5vn3oXMbqjfQ"
+      },
+      {
+       "id": 240115195,
+       "city": "Серов",
+       "track_code": "b72b6c83kPqOnkhqVV9Yi-5Tj-8CtV2_GxE61HFDYcogm5D_hxfVC2BfzqLiyKDnjlKJ5BKna7YbGj2nHg8hnXj1zr7eS5JSakzTvPfJ-Q"
+      },
+      {
+       "id": 232235211,
+       "city": "Saint Petersburg",
+       "track_code": "16faa916mt_qfHxoKq8Z_NRfLU-MjHyhwZyx4cJKfOzgPxluLJbfLgS9-qCdOOGQtF4rRJyeSqjBl7eSrQY8vLpSRS92wpx3Dq7nvog5uA"
+      },
+      {
+       "id": 46712831,
+       "track_code": "a39f035cyKRTWGoaaAw__PZzMKPRNFT0X6iMLz99WcBQdsU_NSmNVb2Z7NLfm8eQlnI2qMEmYv1fo4lcUzEflQ8YmHNufflnu5nowt3u"
+      },
+      {
+       "id": 32790829,
+       "city": "Moscow",
+       "track_code": "d20904dcSZH6fuPSqJZK3rfiewayaiiStVxZDfsG-yfEON5xQxsMYBS_ZRofAbKy1-N9DaJ4Hpu1V11-l0q6dptegT0ZR3hSEr9hCh10"
+      },
+      {
+       "id": 236491283,
+       "track_code": "e9d07037F6P47ohoZsLOKNM6eJpCyB8ee5_UdkxuvHynWJFirDFSUhYvDqDRVTZEszt-kVLaKRd7lNcFIyL8LPkzxyf2bBMLHDwTvsRUbw"
+      },
+      {
+       "id": 185123800,
+       "track_code": "3352c058IH_SHmI5JLITlLT0NeRH-W6S6XFlYMSGlfIM_DCfbJFljjzf5PGTJev41PUz71frWJvpemcTq8rWqVGSbdg8xCfXNsz574Yksg"
+      },
+      {
+       "id": 224802714,
+       "city": "Moscow",
+       "track_code": "ac3ef479FHSNpQe-Zt3RvsxJw8f1ZV7oY7uz4r2WxMJzMWXSlOtRhWNkgXbRSinSrEjFzOV3aOFjsLKR0tqEky9WOpTLvxfcaXecaMRLcA"
+      },
+      {
+       "id": 168977546,
+       "track_code": "1ac635373ki0UwxiuNRjkG8X_EAuDiskB5rtKhjU4CfPdLckrHibuVqSiqoPQ5v8Dxb6Sz4cHS0Hke1Zd5ijcp8S72fxKd_gUIGXtBpCwg"
+      },
+      {
+       "id": 107207435,
+       "track_code": "70c1bf0cFt1XrVjDCE-6q3ZXMtf5TphvkbaueTUm00-ifTcz9TZTLLls3gu_2ELHFlY03OlcrmaRvZEKWmqQHP0QaHCpYBR1s3_DFarZGw"
+      },
+      {
+       "id": 222274106,
+       "city": "Moscow",
+       "track_code": "7d1e5a16qZuZABMQtVL-bPtvKMA-wDf34oC1ol1h0iWhI_qNHlvsanfBldgCxQYAm24uyy7SAf7ii4vRMi2SdPtOos1HDqgzfdKIxhfEXw"
+      },
+      {
+       "id": 204910720,
+       "city": "Moscow",
+       "track_code": "a9e473b0eugumC4Dsz1h8TYu9rzGtVCEWRGgZYgcW2-Mp587e70_GcBZqMsEqpmdVi_wt9anZo1ZGp0W51AbPNDBwX8k6n1Aykq11RGrwA"
+      },
+      {
+       "id": 61424979,
+       "city": "Moscow",
+       "track_code": "dd55486493ey8X5PsgPAZfovjI9rPi5uE9FcaLB2jMQaqV6847Wyhlww-IcFlDgJmi6KhHssGGcT2mAb3DrIlkbEBfG86ca0WjD8lwfh"
+      },
+      {
+       "id": 147191849,
+       "track_code": "55ecbbc1LKO4e5rcNDCRV8jxv8_pdF_AboZ1abACbzqKbt5TmkNpUla6HBSDp2k7qPC5xPlmaclujU4a304sbdUAiBbKEiILXKkBCpamMA"
+      },
+      {
+       "id": 173433965,
+       "track_code": "27b82cfexXrMlTiX88Ni-GIRnMtZteo6cT5qqRhfyWhLWp9OZCSAiyJUvl9EVJqUAhCawEmn3DNxNVDadxOKPBAxwwk1d8fSKEejQVFVww"
+      },
+      {
+       "id": 118486414,
+       "track_code": "92b5a4dcwZs_bBN_uAff3Op5cAUTNdrhmUTGjNeE765WtDBdBQiEatGtlbcPkCewinh2DgMn7OiZT___uMis_AbfZx9ZXMIz276IqRqRfg"
+      },
+      {
+       "id": 196884570,
+       "track_code": "dafe5283bC0AG1bPc9MjJAHJyYtuq7aBkiY4E3R-gWkiWUJpZWop3O7a0AfERNtIYcjPgH65gIiSLQBgGzLCM3w-FSk4OGuF5MnNGdFFgg"
+      },
+      {
+       "id": 152215357,
+       "city": "Белгород",
+       "track_code": "95e14d4dtH6Ed1YYX_KZcr7l0KrdX55Rk8cLOjt3DIem9oZ3B0Hxj2q20NDoZWEe3uTWoc1NqFiTzDxJVDtP0fyb2DZcEbTWYKXNzv1kOA"
+      }
+     ],
+     "title": "Among all communities"
+    }
+   ],
+   "next_from": "PUlYVA8AWxs PUlQVA8GR0R3W0tMF0cOBzQIASlaQAMDNDQOBFpBGxUZHAACXVseEhkMDBkXGElVd0lTVEBaDwMgAgcTURZHRHFJU1RFTR8OKQVLWhcHUkR8WlBAAg1eVHVfXk8MAV1Udl5bQBkWXkR8STZABhZHRHJJU1RSRgQTNhg2BVBVGQUuNB9EakMOBGRHS0cAFlFXaklaRBcOXRs"
+  },
+  "groups": [
+   {
+    "id": 32790829,
+    "members_count": 280971,
+    "members_count_text": "280,971 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-77.vkuserphoto.ru/impf/Xv2jvDRdMVPuypuHZh7OddF3R8Dgdo3eg-oojQ/2gJBwZ33lcY.jpg?size=200x67&quality=95&crop=390,0,1200,400&sign=a3c25f117317ef895e40764f9d680764&c_uniq_tag=9ZSgPO2nRXOy-EhCG7sCiLYMdCPlVsoV5PB4qbTkzWw&type=cover_group",
+       "width": 200,
+       "height": 67
+      },
+      {
+       "url": "https://sun9-77.vkuserphoto.ru/impf/Xv2jvDRdMVPuypuHZh7OddF3R8Dgdo3eg-oojQ/2gJBwZ33lcY.jpg?size=400x134&quality=95&crop=390,0,1200,400&sign=9fe6f5f57f347f777669e7052cee7553&c_uniq_tag=JGiD9kafWba7Byb8j0b2_jBch2cPHybVs2nYKeFAIQU&type=cover_group",
+       "width": 400,
+       "height": 134
+      },
+      {
+       "url": "https://sun9-77.vkuserphoto.ru/impf/Xv2jvDRdMVPuypuHZh7OddF3R8Dgdo3eg-oojQ/2gJBwZ33lcY.jpg?size=909x303&quality=95&crop=390,0,1200,400&sign=bc632ae69bd05e0e339067da3a44fb61&c_uniq_tag=HP8CrP8_ZtyTSPWud-uqfjwZEZ2vNqVohRc7WRmMLSw&type=cover_group",
+       "width": 909,
+       "height": 303
+      },
+      {
+       "url": "https://sun9-77.vkuserphoto.ru/impf/Xv2jvDRdMVPuypuHZh7OddF3R8Dgdo3eg-oojQ/2gJBwZ33lcY.jpg?size=1080x360&quality=95&crop=390,0,1200,400&sign=029924d494d8b4f047bbb17972c9d2b2&c_uniq_tag=2g5ORi-m5NQQdun6PWVQ5PK4wnzmNd7jn-T-9gWKpWw&type=cover_group",
+       "width": 1080,
+       "height": 360
+      },
+      {
+       "url": "https://sun9-77.vkuserphoto.ru/impf/Xv2jvDRdMVPuypuHZh7OddF3R8Dgdo3eg-oojQ/2gJBwZ33lcY.jpg?size=1818x606&quality=95&crop=390,0,1200,400&sign=78130cd9945aeb2358b9b8804a3057d1&c_uniq_tag=BKjka_ibCOOKXomBVMNu2NCOYubSOae623xRsBPfnwY&type=cover_group",
+       "width": 1818,
+       "height": 606
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#394555",
+    "activity": "Education",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": true,
+     "main_address_id": 73823,
+     "main_address": {
+      "id": 73823,
+      "additional_address": "Дипломы Курсовые Отчеты | Новая Помощь Студентам\n\nПринимаем заказы онлайн, по всем вопросам писать в сообщения группы.",
+      "address": "Николовская ",
+      "city": {
+       "id": 1,
+       "title": "Moscow"
+      },
+      "metro_station": {
+       "id": 89,
+       "name": "Охотный ряд",
+       "city_id": 1,
+       "color": "ee352e"
+      },
+      "country": {
+       "id": 1,
+       "title": "Russia"
+      },
+      "title": "Москва. Дипломы Курсовые Отчеты | Новая Помощь Студентам",
+      "work_info_status": "always_opened"
+     },
+     "count": 21
+    },
+    "trust_mark": 3,
+    "is_government_organization": false,
+    "name": "Дипломы Курсовые Отчеты | Новая Помощь Студентам",
+    "screen_name": "new_pomoshch",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-22.vkuserphoto.ru/s/v1/ig1/uaa533BGyJXuB7sa6RYf05zks1o7jP7jt1gColSp8E08ylojY2hdYJPCRtdWMo3Nu0oEwHCR.jpg?quality=96&crop=91,0,427,427&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=76XUXADdTFFolcSTaCYfPNngyV0HVqW6sTw1biU5DAw&cs=50x50",
+    "photo_100": "https://sun1-22.vkuserphoto.ru/s/v1/ig1/uaa533BGyJXuB7sa6RYf05zks1o7jP7jt1gColSp8E08ylojY2hdYJPCRtdWMo3Nu0oEwHCR.jpg?quality=96&crop=91,0,427,427&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=76XUXADdTFFolcSTaCYfPNngyV0HVqW6sTw1biU5DAw&cs=100x100",
+    "photo_200": "https://sun1-22.vkuserphoto.ru/s/v1/ig1/uaa533BGyJXuB7sa6RYf05zks1o7jP7jt1gColSp8E08ylojY2hdYJPCRtdWMo3Nu0oEwHCR.jpg?quality=96&crop=91,0,427,427&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=76XUXADdTFFolcSTaCYfPNngyV0HVqW6sTw1biU5DAw&cs=200x200",
+    "photo_base": "https://sun1-22.vkuserphoto.ru/s/v1/ig1/uaa533BGyJXuB7sa6RYf05zks1o7jP7jt1gColSp8E08ylojY2hdYJPCRtdWMo3Nu0oEwHCR.jpg?quality=96&crop=91,0,427,427&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=76XUXADdTFFolcSTaCYfPNngyV0HVqW6sTw1biU5DAw"
+   },
+   {
+    "id": 46712831,
+    "members_count": 4865,
+    "members_count_text": "4,865 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/impf/ubs-ms1g9tgIxgsMrB3rQUcW03p38j9iZ1gXDw/ShlOsBLnN9E.jpg?size=200x80&quality=95&crop=0,0,1810,723&sign=a9b1238e998d14ab2e18d4c37e2c4394&c_uniq_tag=nleJXb7k_koMIinVKMaEsSbT2ZsOBgJ6-1zNCFk5-eQ&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/impf/ubs-ms1g9tgIxgsMrB3rQUcW03p38j9iZ1gXDw/ShlOsBLnN9E.jpg?size=400x160&quality=95&crop=0,0,1810,723&sign=e2097656388b5c273718ee99cbd09dbf&c_uniq_tag=fO-ahEswePFbD6S1K4P4KCgmdev_1zur4Y7P7pLTIJs&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/impf/ubs-ms1g9tgIxgsMrB3rQUcW03p38j9iZ1gXDw/ShlOsBLnN9E.jpg?size=911x364&quality=95&crop=0,0,1810,723&sign=3329822cbbd7c5cd3347eac7700176c5&c_uniq_tag=UDdI0MvptoQVGDCPXJ2CoA2LaGpWmkh78f2fsZQQ1uo&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/impf/ubs-ms1g9tgIxgsMrB3rQUcW03p38j9iZ1gXDw/ShlOsBLnN9E.jpg?size=1080x432&quality=95&crop=0,0,1810,723&sign=e2c1619290258122624de668da8765c4&c_uniq_tag=evihQb_yH5WyOCGc9JEmJ9gTKRZ8BAteUedb4uBXVpY&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/impf/ubs-ms1g9tgIxgsMrB3rQUcW03p38j9iZ1gXDw/ShlOsBLnN9E.jpg?size=1920x768&quality=95&crop=0,0,1810,723&sign=5ef5266c344b5836b7ac6a8fc3f2612b&c_uniq_tag=C4B7rjLTWeL9KOrePcDjZfKzahW42ZdWzLnFDG2txNo&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#000000",
+    "activity": "Programming",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": true
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Программирование Курсовые Контрольные Дипломные",
+    "screen_name": "vkr_esse_test",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-83.vkuserphoto.ru/s/v1/ig2/jsZIxysyxhnr0id--dsfLeqRZTH9m28_8VFJ3tMNr39auTcp1MNxX1pziZglVdjxBhjmFnm7t6zcl4mR4yWb4QHC.jpg?quality=95&crop=91,66,1098,1098&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=8vI49rV0vJJARjeE32vXX88Z84PgJk6kXVVN02Wfci4&cs=50x50",
+    "photo_100": "https://sun1-83.vkuserphoto.ru/s/v1/ig2/jsZIxysyxhnr0id--dsfLeqRZTH9m28_8VFJ3tMNr39auTcp1MNxX1pziZglVdjxBhjmFnm7t6zcl4mR4yWb4QHC.jpg?quality=95&crop=91,66,1098,1098&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=8vI49rV0vJJARjeE32vXX88Z84PgJk6kXVVN02Wfci4&cs=100x100",
+    "photo_200": "https://sun1-83.vkuserphoto.ru/s/v1/ig2/jsZIxysyxhnr0id--dsfLeqRZTH9m28_8VFJ3tMNr39auTcp1MNxX1pziZglVdjxBhjmFnm7t6zcl4mR4yWb4QHC.jpg?quality=95&crop=91,66,1098,1098&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=8vI49rV0vJJARjeE32vXX88Z84PgJk6kXVVN02Wfci4&cs=200x200",
+    "photo_base": "https://sun1-83.vkuserphoto.ru/s/v1/ig2/jsZIxysyxhnr0id--dsfLeqRZTH9m28_8VFJ3tMNr39auTcp1MNxX1pziZglVdjxBhjmFnm7t6zcl4mR4yWb4QHC.jpg?quality=95&crop=91,66,1098,1098&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=8vI49rV0vJJARjeE32vXX88Z84PgJk6kXVVN02Wfci4"
+   },
+   {
+    "id": 61424979,
+    "members_count": 1328,
+    "members_count_text": "1,328 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/gFCBIpXMhF_Rv8-33PUqCUtOjUSTFTMIgyRIZA/28s_caA013g.jpg?size=200x80&quality=95&crop=1162,1450,1015,405&sign=a9c5f1084a8074231c33f94ffe8e6287&c_uniq_tag=Qi2pMEzHB98r-5auPzuaTK8Zj_XdreCTh1RYmxbB-0E&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/gFCBIpXMhF_Rv8-33PUqCUtOjUSTFTMIgyRIZA/28s_caA013g.jpg?size=400x160&quality=95&crop=1162,1450,1015,405&sign=af21b5106fb5f766a41b403a9069fc53&c_uniq_tag=19c91HuvIPrzTuwLa1ShgXabATZU9G7Pdps-6HQhL1I&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/gFCBIpXMhF_Rv8-33PUqCUtOjUSTFTMIgyRIZA/28s_caA013g.jpg?size=911x364&quality=95&crop=1162,1450,1015,405&sign=69986c019c9394255b99f055ca202514&c_uniq_tag=m6RWiZxXwBQdusT1Hi_SNvzbMhs445L5U02jZrD4zwI&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/gFCBIpXMhF_Rv8-33PUqCUtOjUSTFTMIgyRIZA/28s_caA013g.jpg?size=1080x432&quality=95&crop=1162,1450,1015,405&sign=47ca51f2bdf50574c10d64ff41c6c643&c_uniq_tag=PXLdFmku8eWom6f-Dm6auovNO2k34-Lc-hIozzixDUc&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/gFCBIpXMhF_Rv8-33PUqCUtOjUSTFTMIgyRIZA/28s_caA013g.jpg?size=1920x768&quality=95&crop=1162,1450,1015,405&sign=d19d4c49c39a1ef56821460e9ca08a01&c_uniq_tag=cy56NfyMcRdB-gOONbP5-0GhsgJpD6MOKNrylj2K0oE&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#B70F42",
+    "activity": "Animals",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": true
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "LilaMi ball pythons (королевские питоны, удавы)",
+    "screen_name": "lilamipythons",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-28.vkuserphoto.ru/s/v1/ig2/M59mJ3H-KwDu8djLyLetg4XUaSkrmQ_AqJdbPmNSXcmkdD1fWsrxRqVayhyLGYZNTF4juGHZkgSY1kafSr8VNZ0r.jpg?quality=95&crop=27,1,1160,1160&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U1XLpRGkj4lKoxvTbhnd6YtpScqV8MKeIKTM9fatfiQ&cs=50x50",
+    "photo_100": "https://sun1-28.vkuserphoto.ru/s/v1/ig2/M59mJ3H-KwDu8djLyLetg4XUaSkrmQ_AqJdbPmNSXcmkdD1fWsrxRqVayhyLGYZNTF4juGHZkgSY1kafSr8VNZ0r.jpg?quality=95&crop=27,1,1160,1160&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U1XLpRGkj4lKoxvTbhnd6YtpScqV8MKeIKTM9fatfiQ&cs=100x100",
+    "photo_200": "https://sun1-28.vkuserphoto.ru/s/v1/ig2/M59mJ3H-KwDu8djLyLetg4XUaSkrmQ_AqJdbPmNSXcmkdD1fWsrxRqVayhyLGYZNTF4juGHZkgSY1kafSr8VNZ0r.jpg?quality=95&crop=27,1,1160,1160&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U1XLpRGkj4lKoxvTbhnd6YtpScqV8MKeIKTM9fatfiQ&cs=200x200",
+    "photo_base": "https://sun1-28.vkuserphoto.ru/s/v1/ig2/M59mJ3H-KwDu8djLyLetg4XUaSkrmQ_AqJdbPmNSXcmkdD1fWsrxRqVayhyLGYZNTF4juGHZkgSY1kafSr8VNZ0r.jpg?quality=95&crop=27,1,1160,1160&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U1XLpRGkj4lKoxvTbhnd6YtpScqV8MKeIKTM9fatfiQ"
+   },
+   {
+    "id": 107207435,
+    "members_count": 7540,
+    "members_count_text": "7,540 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-16.vkuserphoto.ru/impf/x9Y4ZCDXrwBEh5TS7BZjWj-n8F2aT1c4f2biXA/0Dsy3sIcYOw.jpg?size=200x50&quality=95&crop=0,178,1630,410&sign=e916f582bd7c1d143b459bb6c4526d59&c_uniq_tag=hGERyKIs1yrTQ1j9DSYi1242zGWUrX4cLocd18pdq8Q&type=cover_group",
+       "width": 200,
+       "height": 50
+      },
+      {
+       "url": "https://sun9-16.vkuserphoto.ru/impf/x9Y4ZCDXrwBEh5TS7BZjWj-n8F2aT1c4f2biXA/0Dsy3sIcYOw.jpg?size=400x101&quality=95&crop=0,178,1630,410&sign=fc52acc89f1014a5277b77aafa0d45e9&c_uniq_tag=qBqoelX3jeo1DL3vw_W0azP2AsEszCtyGfzxPwZG-OI&type=cover_group",
+       "width": 400,
+       "height": 101
+      },
+      {
+       "url": "https://sun9-16.vkuserphoto.ru/impf/x9Y4ZCDXrwBEh5TS7BZjWj-n8F2aT1c4f2biXA/0Dsy3sIcYOw.jpg?size=795x200&quality=95&crop=0,178,1630,410&sign=817dcb5e13070bc3383cd456a3ef8fed&c_uniq_tag=F3RWI2BHgyIFYe_X5lMEQ0bjWMeMvXDqdmseUlhiL3g&type=cover_group",
+       "width": 795,
+       "height": 200
+      },
+      {
+       "url": "https://sun9-16.vkuserphoto.ru/impf/x9Y4ZCDXrwBEh5TS7BZjWj-n8F2aT1c4f2biXA/0Dsy3sIcYOw.jpg?size=1080x272&quality=95&crop=0,178,1630,410&sign=2e45bd69f315ebdbc399347ada93d62f&c_uniq_tag=PqYIjjVbfD6Y5uX0LHUX1JVzvalCm-ytFmHl2ueWzio&type=cover_group",
+       "width": 1080,
+       "height": 272
+      },
+      {
+       "url": "https://sun9-16.vkuserphoto.ru/impf/x9Y4ZCDXrwBEh5TS7BZjWj-n8F2aT1c4f2biXA/0Dsy3sIcYOw.jpg?size=1590x400&quality=95&crop=0,178,1630,410&sign=7af83500dd938a6ebcf102de2aea668b&c_uniq_tag=krozus-lPVi2OBSztU64u10i1nEjdxT70zCApI-exd0&type=cover_group",
+       "width": 1590,
+       "height": 400
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#000000",
+    "activity": "Zoo",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "ATLASREPTILES",
+    "screen_name": "atlasreptiles",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-57.vkuserphoto.ru/s/v1/ig2/9hy5f6jMa0qSCSvqmVTMDPOFMzVcXUhINukJfKI1n7_9R_wDfP0NSu7r1tbSJv1k4MOWc-J1ezoAx5k60EDoxSL7.jpg?quality=95&crop=18,50,643,643&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=W_85f7Zv2-jJEyQ6jUv5VYfeO2JOgIUDADNagAW9ktk&cs=50x50",
+    "photo_100": "https://sun1-57.vkuserphoto.ru/s/v1/ig2/9hy5f6jMa0qSCSvqmVTMDPOFMzVcXUhINukJfKI1n7_9R_wDfP0NSu7r1tbSJv1k4MOWc-J1ezoAx5k60EDoxSL7.jpg?quality=95&crop=18,50,643,643&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=W_85f7Zv2-jJEyQ6jUv5VYfeO2JOgIUDADNagAW9ktk&cs=100x100",
+    "photo_200": "https://sun1-57.vkuserphoto.ru/s/v1/ig2/9hy5f6jMa0qSCSvqmVTMDPOFMzVcXUhINukJfKI1n7_9R_wDfP0NSu7r1tbSJv1k4MOWc-J1ezoAx5k60EDoxSL7.jpg?quality=95&crop=18,50,643,643&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=W_85f7Zv2-jJEyQ6jUv5VYfeO2JOgIUDADNagAW9ktk&cs=200x200",
+    "photo_base": "https://sun1-57.vkuserphoto.ru/s/v1/ig2/9hy5f6jMa0qSCSvqmVTMDPOFMzVcXUhINukJfKI1n7_9R_wDfP0NSu7r1tbSJv1k4MOWc-J1ezoAx5k60EDoxSL7.jpg?quality=95&crop=18,50,643,643&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=W_85f7Zv2-jJEyQ6jUv5VYfeO2JOgIUDADNagAW9ktk"
+   },
+   {
+    "id": 118486414,
+    "members_count": 3987,
+    "members_count_text": "3,987 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/SsaNKmiAKu-FZUIDPm1CjGUlNuN62RtBu3_wjw/yf5401JATQQ.jpg?size=200x80&quality=95&crop=0,0,1982,791&sign=94bed5ed1a36e80dbfdd3cbc63e820a0&c_uniq_tag=EWQMSbCJnvh2cH6bjvQc5NRBpxK0-1O-vAia1ahwexs&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/SsaNKmiAKu-FZUIDPm1CjGUlNuN62RtBu3_wjw/yf5401JATQQ.jpg?size=400x160&quality=95&crop=0,0,1982,791&sign=e215bd0464f14f747ddd7f1b0673aa47&c_uniq_tag=0TvCEhHNYTMIfCliuOn9JBWyy1VgqXQoqcYenC7de-s&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/SsaNKmiAKu-FZUIDPm1CjGUlNuN62RtBu3_wjw/yf5401JATQQ.jpg?size=911x364&quality=95&crop=0,0,1982,791&sign=c0b5523f9f5eb4a746ba1cfaa609509a&c_uniq_tag=VP3dnia8xzueJ9iU1NGfWVE4URUsGCgcy8k6WzSlM-E&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/SsaNKmiAKu-FZUIDPm1CjGUlNuN62RtBu3_wjw/yf5401JATQQ.jpg?size=1080x432&quality=95&crop=0,0,1982,791&sign=ac96e7cc38a6d828aed203fa13cad8c0&c_uniq_tag=8mwqi2MypqWeu1VVAO4XmrFoLzqS3EZVq19fXIJlI_M&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/SsaNKmiAKu-FZUIDPm1CjGUlNuN62RtBu3_wjw/yf5401JATQQ.jpg?size=1920x768&quality=95&crop=0,0,1982,791&sign=13359502d706be3327983fc8524e34c6&c_uniq_tag=FbxMCy_Ud6EerXMtnsrs-oWTjPIhfgYdIb7OG0nmSYY&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#94380F",
+    "activity": "Fictional character",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Проект СвитиБот",
+    "screen_name": "sweetie_bot_project",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-23.vkuserphoto.ru/s/v1/ig1/331TduKyNEeP2Lgo7TQ_UKQYVPDcOKL26S1iuoCcABBqhol3HsfmW9Vrypoti6GsGjzMxV51.jpg?quality=96&crop=0,0,700,700&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=0GdMPAhl1ulLMNezZqTyXeXZIcmcbMdjoPEoNVbzShA&cs=50x50",
+    "photo_100": "https://sun1-23.vkuserphoto.ru/s/v1/ig1/331TduKyNEeP2Lgo7TQ_UKQYVPDcOKL26S1iuoCcABBqhol3HsfmW9Vrypoti6GsGjzMxV51.jpg?quality=96&crop=0,0,700,700&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=0GdMPAhl1ulLMNezZqTyXeXZIcmcbMdjoPEoNVbzShA&cs=100x100",
+    "photo_200": "https://sun1-23.vkuserphoto.ru/s/v1/ig1/331TduKyNEeP2Lgo7TQ_UKQYVPDcOKL26S1iuoCcABBqhol3HsfmW9Vrypoti6GsGjzMxV51.jpg?quality=96&crop=0,0,700,700&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=0GdMPAhl1ulLMNezZqTyXeXZIcmcbMdjoPEoNVbzShA&cs=200x200",
+    "photo_base": "https://sun1-23.vkuserphoto.ru/s/v1/ig1/331TduKyNEeP2Lgo7TQ_UKQYVPDcOKL26S1iuoCcABBqhol3HsfmW9Vrypoti6GsGjzMxV51.jpg?quality=96&crop=0,0,700,700&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&ava=1&u=0GdMPAhl1ulLMNezZqTyXeXZIcmcbMdjoPEoNVbzShA"
+   },
+   {
+    "id": 147191849,
+    "members_count": 1870,
+    "members_count_text": "1,870 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-83.vkuserphoto.ru/c856036/v856036949/15506c/hsGoAphTyUo.jpg",
+       "width": 200,
+       "height": 50
+      },
+      {
+       "url": "https://sun9-70.vkuserphoto.ru/c856036/v856036949/15506b/Zrf9XjKueBU.jpg",
+       "width": 400,
+       "height": 101
+      },
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/c856036/v856036949/155068/Xr0ueMeFHcA.jpg",
+       "width": 795,
+       "height": 200
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/c856036/v856036949/15506a/8ULGs2Pj0uY.jpg",
+       "width": 1080,
+       "height": 272
+      },
+      {
+       "url": "https://sun9-70.vkuserphoto.ru/c856036/v856036949/155069/nXMlyo62LTY.jpg",
+       "width": 1590,
+       "height": 400
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#34681E",
+    "activity": "Animals",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "МОЙ ГАД | Рептилии — Питоны, Полозы, Эублефары",
+    "screen_name": "moi_gad",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-88.vkuserphoto.ru/s/v1/ig1/Yd-9Xkl7ujjLq93tBo4bnORKmbf1EwZvzAlUoEUdf0IA0eJtvqs6DyqI40I-3bhC7mzm3OmC.jpg?quality=96&crop=806,52,963,963&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=GamwmYBtkzn-Ae5tYuksNTXf0-M0XJpKNdZERQe9MB0&cs=50x50",
+    "photo_100": "https://sun1-88.vkuserphoto.ru/s/v1/ig1/Yd-9Xkl7ujjLq93tBo4bnORKmbf1EwZvzAlUoEUdf0IA0eJtvqs6DyqI40I-3bhC7mzm3OmC.jpg?quality=96&crop=806,52,963,963&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=GamwmYBtkzn-Ae5tYuksNTXf0-M0XJpKNdZERQe9MB0&cs=100x100",
+    "photo_200": "https://sun1-88.vkuserphoto.ru/s/v1/ig1/Yd-9Xkl7ujjLq93tBo4bnORKmbf1EwZvzAlUoEUdf0IA0eJtvqs6DyqI40I-3bhC7mzm3OmC.jpg?quality=96&crop=806,52,963,963&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=GamwmYBtkzn-Ae5tYuksNTXf0-M0XJpKNdZERQe9MB0&cs=200x200",
+    "photo_base": "https://sun1-88.vkuserphoto.ru/s/v1/ig1/Yd-9Xkl7ujjLq93tBo4bnORKmbf1EwZvzAlUoEUdf0IA0eJtvqs6DyqI40I-3bhC7mzm3OmC.jpg?quality=96&crop=806,52,963,963&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=GamwmYBtkzn-Ae5tYuksNTXf0-M0XJpKNdZERQe9MB0"
+   },
+   {
+    "id": 152215357,
+    "members_count": 942,
+    "members_count_text": "942 followers",
+    "cover": {
+     "enabled": 0
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#CC981E",
+    "activity": "Animals",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "RegiusRoom|Королевская комната. Питоны,бананоеды",
+    "screen_name": "regiusroom",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/F6k8DGT7y3QX-YYGpptV1KL-_KG2BFSLqRlFuKJrnuny5fMA-Qf0yGkJx2K55hbxMGn9tgNuQd3ZabbxawMVpHSR.jpg?quality=95&crop=0,440,1714,1714&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=wIevSXD6dQDmML5tCBNtRioeYFfVwnvDnKUqY9nCpaE&cs=50x50",
+    "photo_100": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/F6k8DGT7y3QX-YYGpptV1KL-_KG2BFSLqRlFuKJrnuny5fMA-Qf0yGkJx2K55hbxMGn9tgNuQd3ZabbxawMVpHSR.jpg?quality=95&crop=0,440,1714,1714&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=wIevSXD6dQDmML5tCBNtRioeYFfVwnvDnKUqY9nCpaE&cs=100x100",
+    "photo_200": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/F6k8DGT7y3QX-YYGpptV1KL-_KG2BFSLqRlFuKJrnuny5fMA-Qf0yGkJx2K55hbxMGn9tgNuQd3ZabbxawMVpHSR.jpg?quality=95&crop=0,440,1714,1714&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=wIevSXD6dQDmML5tCBNtRioeYFfVwnvDnKUqY9nCpaE&cs=200x200",
+    "photo_base": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/F6k8DGT7y3QX-YYGpptV1KL-_KG2BFSLqRlFuKJrnuny5fMA-Qf0yGkJx2K55hbxMGn9tgNuQd3ZabbxawMVpHSR.jpg?quality=95&crop=0,440,1714,1714&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=wIevSXD6dQDmML5tCBNtRioeYFfVwnvDnKUqY9nCpaE"
+   },
+   {
+    "id": 168977546,
+    "members_count": 835,
+    "members_count_text": "835 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/QSQgSuBDRwNR-F5L5mZzFFPEv6OYpcKme5wn5A/-U4lGyLPfAo.jpg?size=200x80&quality=95&crop=0,104,1280,511&sign=b00b4ba9a4fc15b0fbcb7e829ca0bc6e&c_uniq_tag=iPlCOrlH_8TXCvqwRAqL7SziAucPt0gp9K42YaQDZpY&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/QSQgSuBDRwNR-F5L5mZzFFPEv6OYpcKme5wn5A/-U4lGyLPfAo.jpg?size=400x160&quality=95&crop=0,104,1280,511&sign=e6c8f471b09ffdc98dc53ca392ebcf0f&c_uniq_tag=vLBGIsHlmBj1g6pbOPatLLDNu-uoVIlxAZ87OoBo988&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/QSQgSuBDRwNR-F5L5mZzFFPEv6OYpcKme5wn5A/-U4lGyLPfAo.jpg?size=911x364&quality=95&crop=0,104,1280,511&sign=65f76a0410a0ce930b7bf6c94a90b370&c_uniq_tag=4l8xZCSgtJ2NSsNAXK7Q_QMfQaI0q0JztuO4Y8aQfVw&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/QSQgSuBDRwNR-F5L5mZzFFPEv6OYpcKme5wn5A/-U4lGyLPfAo.jpg?size=1080x432&quality=95&crop=0,104,1280,511&sign=2653d1016eea4bf8cd73686310da258a&c_uniq_tag=oRalGNf7sk5E0ZVDw4j2fBsbZVdUe-nUccPVU5mT1sw&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/impf/QSQgSuBDRwNR-F5L5mZzFFPEv6OYpcKme5wn5A/-U4lGyLPfAo.jpg?size=1920x768&quality=95&crop=0,104,1280,511&sign=c171b032f2c520938c2d08ac3a37b61c&c_uniq_tag=rWB7z_YbxNttxhyw0H8KlmlYqxMALm4mD_q0LDeLo94&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#771E00",
+    "activity": "Fan community",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Ужасное происшествие с рыбой",
+    "screen_name": "montypython_rg",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-15.vkuserphoto.ru/s/v1/ig2/UvfkwjUG-Xgx95c4s83kJwVB8QhSLFqIE_CxuqsNdBVVlEJFvwibP6Z6J_XNL70RVqdBeyL18U5I-kJRmzOfRh9C.jpg?quality=95&crop=202,21,328,328&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=5ELnwLz3TLZIQ2gWDBCXcfqvuRw0svfWNylQ-X384qQ&cs=50x50",
+    "photo_100": "https://sun1-15.vkuserphoto.ru/s/v1/ig2/UvfkwjUG-Xgx95c4s83kJwVB8QhSLFqIE_CxuqsNdBVVlEJFvwibP6Z6J_XNL70RVqdBeyL18U5I-kJRmzOfRh9C.jpg?quality=95&crop=202,21,328,328&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=5ELnwLz3TLZIQ2gWDBCXcfqvuRw0svfWNylQ-X384qQ&cs=100x100",
+    "photo_200": "https://sun1-15.vkuserphoto.ru/s/v1/ig2/UvfkwjUG-Xgx95c4s83kJwVB8QhSLFqIE_CxuqsNdBVVlEJFvwibP6Z6J_XNL70RVqdBeyL18U5I-kJRmzOfRh9C.jpg?quality=95&crop=202,21,328,328&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=5ELnwLz3TLZIQ2gWDBCXcfqvuRw0svfWNylQ-X384qQ&cs=200x200",
+    "photo_base": "https://sun1-15.vkuserphoto.ru/s/v1/ig2/UvfkwjUG-Xgx95c4s83kJwVB8QhSLFqIE_CxuqsNdBVVlEJFvwibP6Z6J_XNL70RVqdBeyL18U5I-kJRmzOfRh9C.jpg?quality=95&crop=202,21,328,328&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&u=5ELnwLz3TLZIQ2gWDBCXcfqvuRw0svfWNylQ-X384qQ"
+   },
+   {
+    "id": 173433965,
+    "members_count": 16806,
+    "members_count_text": "16,806 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-38.vkuserphoto.ru/impf/Zdh0rYSPn5rrmCzFz66BONZ4AbcJgA_H3LYJ1Q/h2WiAQS_Dh0.jpg?size=200x80&quality=95&crop=185,0,1515,605&sign=71da654c2ed27b889c919591e0f42c74&c_uniq_tag=i3BEpaKwNhfB4OEn55NLV5m9yu1dyD7TsQXKsEi3zaA&type=cover_group",
+       "width": 200,
+       "height": 67
+      },
+      {
+       "url": "https://sun9-38.vkuserphoto.ru/impf/Zdh0rYSPn5rrmCzFz66BONZ4AbcJgA_H3LYJ1Q/h2WiAQS_Dh0.jpg?size=400x160&quality=95&crop=185,0,1515,605&sign=eb559a5644c6b57d1522b648f2779e2d&c_uniq_tag=MHwrrTYcdFVWwiEuQhR522tjy5ON8xfyPKMuSJAY8b4&type=cover_group",
+       "width": 400,
+       "height": 134
+      },
+      {
+       "url": "https://sun9-38.vkuserphoto.ru/impf/Zdh0rYSPn5rrmCzFz66BONZ4AbcJgA_H3LYJ1Q/h2WiAQS_Dh0.jpg?size=911x364&quality=95&crop=185,0,1515,605&sign=4e337a5aa23b68c8e541d8e8de27f7b8&c_uniq_tag=blLt7Y16F5eAT2r_kWQHsnMbQv3ujQivLGaAW5YbwV8&type=cover_group",
+       "width": 909,
+       "height": 303
+      },
+      {
+       "url": "https://sun9-38.vkuserphoto.ru/impf/Zdh0rYSPn5rrmCzFz66BONZ4AbcJgA_H3LYJ1Q/h2WiAQS_Dh0.jpg?size=1080x432&quality=95&crop=185,0,1515,605&sign=39abce3f09ec3a71d5d40715a1d62186&c_uniq_tag=BGtlxTLIB_wRmegfcU2qZ6sWx3mqPJGHGQ4jnqQYPeI&type=cover_group",
+       "width": 1080,
+       "height": 360
+      },
+      {
+       "url": "https://sun9-38.vkuserphoto.ru/impf/Zdh0rYSPn5rrmCzFz66BONZ4AbcJgA_H3LYJ1Q/h2WiAQS_Dh0.jpg?size=1920x768&quality=95&crop=185,0,1515,605&sign=a9fedae38efd951a825bf1e2c9f23198&c_uniq_tag=Igy0r68quFZAVXnObSiw9PiKglSXyN3ifIMeBuco6Ag&type=cover_group",
+       "width": 1818,
+       "height": 606
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#015699",
+    "activity": "Education",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": true
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Курсовые Дипломные",
+    "screen_name": "kursovie_diplomi_pro",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/J9YQoB5SIbxXAA0vnoXckDtmzftqkQC-hewkSplQyW6WJXlMZAX6KEWkKtq261W5mNswA_tC5N5jCl25jMdrir95.jpg?quality=95&crop=45,0,495,495&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&u=dU5RKIegU3zJ1Wt65Y5zDLsHNBcltdT1DvSXq15kxhg&cs=50x50",
+    "photo_100": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/J9YQoB5SIbxXAA0vnoXckDtmzftqkQC-hewkSplQyW6WJXlMZAX6KEWkKtq261W5mNswA_tC5N5jCl25jMdrir95.jpg?quality=95&crop=45,0,495,495&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&u=dU5RKIegU3zJ1Wt65Y5zDLsHNBcltdT1DvSXq15kxhg&cs=100x100",
+    "photo_200": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/J9YQoB5SIbxXAA0vnoXckDtmzftqkQC-hewkSplQyW6WJXlMZAX6KEWkKtq261W5mNswA_tC5N5jCl25jMdrir95.jpg?quality=95&crop=45,0,495,495&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&u=dU5RKIegU3zJ1Wt65Y5zDLsHNBcltdT1DvSXq15kxhg&cs=200x200",
+    "photo_base": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/J9YQoB5SIbxXAA0vnoXckDtmzftqkQC-hewkSplQyW6WJXlMZAX6KEWkKtq261W5mNswA_tC5N5jCl25jMdrir95.jpg?quality=95&crop=45,0,495,495&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&u=dU5RKIegU3zJ1Wt65Y5zDLsHNBcltdT1DvSXq15kxhg"
+   },
+   {
+    "id": 184309646,
+    "members_count": 82313,
+    "members_count_text": "82,313 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/impf/k4x_Uv5_Zuo5PGVCinEAiqa8FogXK4lpjMQeTA/Wweji-GX_Mk.jpg?size=200x80&quality=95&crop=0,160,1200,479&sign=b0d3803c509366b533fa51480d868664&c_uniq_tag=bjwkSTd3o5maTAABjRHzQSnn87mwtXib4DnV45BC328&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/impf/k4x_Uv5_Zuo5PGVCinEAiqa8FogXK4lpjMQeTA/Wweji-GX_Mk.jpg?size=400x160&quality=95&crop=0,160,1200,479&sign=83392e41b5b6b73a8083b3919efc0920&c_uniq_tag=m6OJo0_ckqLtmOTvwsg3QbHTnAiOH-pAVJbD96U99B0&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/impf/k4x_Uv5_Zuo5PGVCinEAiqa8FogXK4lpjMQeTA/Wweji-GX_Mk.jpg?size=911x364&quality=95&crop=0,160,1200,479&sign=2cd1f92f4291f29ae7af00d6a4aad3ed&c_uniq_tag=rDAPfF2M2aSXqn24Zlfftm096B4S_LrGrVpALmdcYIc&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/impf/k4x_Uv5_Zuo5PGVCinEAiqa8FogXK4lpjMQeTA/Wweji-GX_Mk.jpg?size=1080x432&quality=95&crop=0,160,1200,479&sign=772898e061e415145fda8895fc5a3aff&c_uniq_tag=yUwyd7lVFZGvEH1vW17RYaU4fjapYWBHHu0ci1q_--g&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/impf/k4x_Uv5_Zuo5PGVCinEAiqa8FogXK4lpjMQeTA/Wweji-GX_Mk.jpg?size=1920x768&quality=95&crop=0,160,1200,479&sign=6b212038ab0e9ddd4ba3d3ee9a4eef5a&c_uniq_tag=LK5vwHu_UsuPZ0I3VvEDZV5B0Hdyr_bqSo6ickCPTQM&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#FFF67F",
+    "activity": "Zoo",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": true
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "ЗооЛандия",
+    "screen_name": "zooland_rus",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-30.vkuserphoto.ru/s/v1/ig2/pEhVQXZp2Xt7E8M_FLWhmBfhi1J15snYK-J3ERJehxoq2BazeADR6KcZpzFqFbO8zYh9ATwp2VPaY_FU407FAb3u.jpg?quality=95&crop=87,56,1013,1013&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=k4MDcmsK5YI5mT4a-hOqCau7_nzVTQE8UL1x6kLP9xo&cs=50x50",
+    "photo_100": "https://sun1-30.vkuserphoto.ru/s/v1/ig2/pEhVQXZp2Xt7E8M_FLWhmBfhi1J15snYK-J3ERJehxoq2BazeADR6KcZpzFqFbO8zYh9ATwp2VPaY_FU407FAb3u.jpg?quality=95&crop=87,56,1013,1013&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=k4MDcmsK5YI5mT4a-hOqCau7_nzVTQE8UL1x6kLP9xo&cs=100x100",
+    "photo_200": "https://sun1-30.vkuserphoto.ru/s/v1/ig2/pEhVQXZp2Xt7E8M_FLWhmBfhi1J15snYK-J3ERJehxoq2BazeADR6KcZpzFqFbO8zYh9ATwp2VPaY_FU407FAb3u.jpg?quality=95&crop=87,56,1013,1013&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=k4MDcmsK5YI5mT4a-hOqCau7_nzVTQE8UL1x6kLP9xo&cs=200x200",
+    "photo_base": "https://sun1-30.vkuserphoto.ru/s/v1/ig2/pEhVQXZp2Xt7E8M_FLWhmBfhi1J15snYK-J3ERJehxoq2BazeADR6KcZpzFqFbO8zYh9ATwp2VPaY_FU407FAb3u.jpg?quality=95&crop=87,56,1013,1013&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=k4MDcmsK5YI5mT4a-hOqCau7_nzVTQE8UL1x6kLP9xo"
+   },
+   {
+    "id": 185123800,
+    "members_count": 11536,
+    "members_count_text": "11,536 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/zUEJwBgK7L2cMCdPlwQW4AERoGdRKys0IAKpEQ/tdvVe8heWvA.jpg?size=200x80&quality=95&crop=29,0,1922,767&sign=e291560c12654338e3d47d8742dccde1&c_uniq_tag=65oEndev3dGqZDZ--JW8149v9xyzURtst-zcuclKzbU&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/zUEJwBgK7L2cMCdPlwQW4AERoGdRKys0IAKpEQ/tdvVe8heWvA.jpg?size=400x160&quality=95&crop=29,0,1922,767&sign=977590e353a0ebffc9bbd14285f8afc7&c_uniq_tag=ZdGM8WQKM9suOzrt1gQEVJa9UChkjL6uxUApy10m8YI&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/zUEJwBgK7L2cMCdPlwQW4AERoGdRKys0IAKpEQ/tdvVe8heWvA.jpg?size=911x364&quality=95&crop=29,0,1922,767&sign=c694e51c79f1b9176dace676cc1716bd&c_uniq_tag=TTI2wm0qos25B0dywGy0cv0YD4n508noiE7kpCP_VMo&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/zUEJwBgK7L2cMCdPlwQW4AERoGdRKys0IAKpEQ/tdvVe8heWvA.jpg?size=1080x432&quality=95&crop=29,0,1922,767&sign=2e536ff8b3769e3525182a1a0bd45ac4&c_uniq_tag=tKCueUEr2fkWhvMCTo5FtQJaiDZDblBPKJZkR14VJ2M&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-48.vkuserphoto.ru/impf/zUEJwBgK7L2cMCdPlwQW4AERoGdRKys0IAKpEQ/tdvVe8heWvA.jpg?size=1920x768&quality=95&crop=29,0,1922,767&sign=c3eea0d106fd2f71f644df1f0dea0daf&c_uniq_tag=2xXWqwtAO6OqJVqPcoypJ5QnxpaNpyhZO09QL7dKo_U&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#1F7244",
+    "activity": "Continuing Education",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Comrade Excel - Power Query, Tableau, SQL",
+    "screen_name": "comrade.excel",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/KAxa5rB8aUkuIohOfnZMFQa-3UCKINBpkuwaa3bbLOs7djey0DuyyPg63nDyBCZOFqkK2KY8wuNzn78bHvVu3gfw.jpg?quality=96&crop=0,0,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=a6W-i0QIdHZmi6bx9i8kAEzCuqDoPGcOMMQCb-RXDsM&cs=50x50",
+    "photo_100": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/KAxa5rB8aUkuIohOfnZMFQa-3UCKINBpkuwaa3bbLOs7djey0DuyyPg63nDyBCZOFqkK2KY8wuNzn78bHvVu3gfw.jpg?quality=96&crop=0,0,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=a6W-i0QIdHZmi6bx9i8kAEzCuqDoPGcOMMQCb-RXDsM&cs=100x100",
+    "photo_200": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/KAxa5rB8aUkuIohOfnZMFQa-3UCKINBpkuwaa3bbLOs7djey0DuyyPg63nDyBCZOFqkK2KY8wuNzn78bHvVu3gfw.jpg?quality=96&crop=0,0,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=a6W-i0QIdHZmi6bx9i8kAEzCuqDoPGcOMMQCb-RXDsM&cs=200x200",
+    "photo_base": "https://sun1-22.vkuserphoto.ru/s/v1/ig2/KAxa5rB8aUkuIohOfnZMFQa-3UCKINBpkuwaa3bbLOs7djey0DuyyPg63nDyBCZOFqkK2KY8wuNzn78bHvVu3gfw.jpg?quality=96&crop=0,0,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=a6W-i0QIdHZmi6bx9i8kAEzCuqDoPGcOMMQCb-RXDsM"
+   },
+   {
+    "id": 196884570,
+    "members_count": 42524,
+    "members_count_text": "42,524 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-6.vkuserphoto.ru/impf/X2nFBG9p29D4qrWJU0Nu8QZaR5JPuPfGU47jRg/95weglrmmlo.jpg?size=200x80&quality=95&crop=0,74,1360,543&sign=964d96c8b7b134b68ecff591c3b32d14&c_uniq_tag=32XemJpzgOEQFGL_liUFQ-N1u_IcDQGdvwTc-nEdos8&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-6.vkuserphoto.ru/impf/X2nFBG9p29D4qrWJU0Nu8QZaR5JPuPfGU47jRg/95weglrmmlo.jpg?size=400x160&quality=95&crop=0,74,1360,543&sign=884fb832f8a6b36d3308e31d52c2cce9&c_uniq_tag=am-qZlByDSwixYiIxUszBR-UP4mPjys6m48ux05nYY0&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-6.vkuserphoto.ru/impf/X2nFBG9p29D4qrWJU0Nu8QZaR5JPuPfGU47jRg/95weglrmmlo.jpg?size=911x364&quality=95&crop=0,74,1360,543&sign=fbda0f31404de24a0c467ed245c2b1fd&c_uniq_tag=dP-bvlq7PVXZvAw_GRYJLkvlQYx-7YeMv4aE7QoSCds&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-6.vkuserphoto.ru/impf/X2nFBG9p29D4qrWJU0Nu8QZaR5JPuPfGU47jRg/95weglrmmlo.jpg?size=1080x432&quality=95&crop=0,74,1360,543&sign=95e25424beba53f1e6d027b940d1546f&c_uniq_tag=FrFQegwE2knzdWzQeICaas97RQs_q0nEQpOC96INONU&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-6.vkuserphoto.ru/impf/X2nFBG9p29D4qrWJU0Nu8QZaR5JPuPfGU47jRg/95weglrmmlo.jpg?size=1920x768&quality=95&crop=0,74,1360,543&sign=81b9cc7f25ffd9ef85001d9394cca50a&c_uniq_tag=i3Vw1U1zJjKoVrazcfoFBsc6tPzYbM_cFvUoF2Zr0Aw&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#794132",
+    "activity": "Creative work",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Ksusha Lime",
+    "screen_name": "ksushalime",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/rXEQcJb4bgY5XZIr3fiSxixpsC_VcqU5NJlx_KvcnTTBzXSS_bdRdbK5oVKUjuCCA6S98iDNNO3VUtbEiBGAWCXj.jpg?quality=95&crop=13,0,823,823&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=AAPAFG-SbbBwEEjA8S1r0WL_D-akkHIIFDwwLAfF7mM&cs=50x50",
+    "photo_100": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/rXEQcJb4bgY5XZIr3fiSxixpsC_VcqU5NJlx_KvcnTTBzXSS_bdRdbK5oVKUjuCCA6S98iDNNO3VUtbEiBGAWCXj.jpg?quality=95&crop=13,0,823,823&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=AAPAFG-SbbBwEEjA8S1r0WL_D-akkHIIFDwwLAfF7mM&cs=100x100",
+    "photo_200": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/rXEQcJb4bgY5XZIr3fiSxixpsC_VcqU5NJlx_KvcnTTBzXSS_bdRdbK5oVKUjuCCA6S98iDNNO3VUtbEiBGAWCXj.jpg?quality=95&crop=13,0,823,823&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=AAPAFG-SbbBwEEjA8S1r0WL_D-akkHIIFDwwLAfF7mM&cs=200x200",
+    "photo_base": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/rXEQcJb4bgY5XZIr3fiSxixpsC_VcqU5NJlx_KvcnTTBzXSS_bdRdbK5oVKUjuCCA6S98iDNNO3VUtbEiBGAWCXj.jpg?quality=95&crop=13,0,823,823&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=AAPAFG-SbbBwEEjA8S1r0WL_D-akkHIIFDwwLAfF7mM"
+   },
+   {
+    "id": 204910720,
+    "members_count": 1156,
+    "members_count_text": "1,156 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/impf/4qkJLBNc_zhG6XzofBeWKo-KZkSfE94_QoQTFA/qv8jy_b1a5Q.jpg?size=200x80&quality=95&crop=0,0,2222,887&sign=242f5403043963084f12e547d2687597&c_uniq_tag=omXFaqca4qAj0CXTc99wWKey7oVN4K7hgFqsj_PhnX8&type=cover_group",
+       "width": 200,
+       "height": 67
+      },
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/impf/4qkJLBNc_zhG6XzofBeWKo-KZkSfE94_QoQTFA/qv8jy_b1a5Q.jpg?size=400x160&quality=95&crop=0,0,2222,887&sign=4560d110a448dede203638842f87adb4&c_uniq_tag=V6jzw7QoCr-xLe7T3E3ZNz9UUluo93VzPu3WwKj-oEA&type=cover_group",
+       "width": 400,
+       "height": 134
+      },
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/impf/4qkJLBNc_zhG6XzofBeWKo-KZkSfE94_QoQTFA/qv8jy_b1a5Q.jpg?size=911x364&quality=95&crop=0,0,2222,887&sign=c21325016d9ebe656f0c4ac924d5ecc5&c_uniq_tag=Yy-Zd2hDHT6JC4XLf85TSAK9k_Neu2B1msQXWWZx_0s&type=cover_group",
+       "width": 909,
+       "height": 303
+      },
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/impf/4qkJLBNc_zhG6XzofBeWKo-KZkSfE94_QoQTFA/qv8jy_b1a5Q.jpg?size=1080x432&quality=95&crop=0,0,2222,887&sign=465a7b541368e75d5e05a974f2233401&c_uniq_tag=Sw89QtzHSrL5t9XTwnRUiAWWZLJk0Bn4LYWIbFTmJ7g&type=cover_group",
+       "width": 1080,
+       "height": 360
+      },
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/impf/4qkJLBNc_zhG6XzofBeWKo-KZkSfE94_QoQTFA/qv8jy_b1a5Q.jpg?size=1920x768&quality=95&crop=0,0,2222,887&sign=3c7b7ef16af8373c3a8a9d6c9abe6113&c_uniq_tag=5xa-tQI18RDSFJfL7BMiAXFe3ogpCjWjzpxt-cgIIA4&type=cover_group",
+       "width": 1818,
+       "height": 606
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#F9D13B",
+    "activity": "Pet Service",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Snakes Embrace - Королевские питоны и не только",
+    "screen_name": "snakes.embrace",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-21.vkuserphoto.ru/s/v1/ig2/jplkhAK68VbiV_iwAFj4MuCwiyScbeeKa1dvawF-XQKC70yuTUVxHH2uc_B2cnTAdZQQwI9U8mXKSsYBlbQZFtNk.jpg?quality=95&crop=0,0,2543,2543&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=miAf2YfpZnHcc7e5v9tMvuhWH7OUJwzRJDrh-baUnaQ&cs=50x50",
+    "photo_100": "https://sun1-21.vkuserphoto.ru/s/v1/ig2/jplkhAK68VbiV_iwAFj4MuCwiyScbeeKa1dvawF-XQKC70yuTUVxHH2uc_B2cnTAdZQQwI9U8mXKSsYBlbQZFtNk.jpg?quality=95&crop=0,0,2543,2543&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=miAf2YfpZnHcc7e5v9tMvuhWH7OUJwzRJDrh-baUnaQ&cs=100x100",
+    "photo_200": "https://sun1-21.vkuserphoto.ru/s/v1/ig2/jplkhAK68VbiV_iwAFj4MuCwiyScbeeKa1dvawF-XQKC70yuTUVxHH2uc_B2cnTAdZQQwI9U8mXKSsYBlbQZFtNk.jpg?quality=95&crop=0,0,2543,2543&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=miAf2YfpZnHcc7e5v9tMvuhWH7OUJwzRJDrh-baUnaQ&cs=200x200",
+    "photo_base": "https://sun1-21.vkuserphoto.ru/s/v1/ig2/jplkhAK68VbiV_iwAFj4MuCwiyScbeeKa1dvawF-XQKC70yuTUVxHH2uc_B2cnTAdZQQwI9U8mXKSsYBlbQZFtNk.jpg?quality=95&crop=0,0,2543,2543&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&u=miAf2YfpZnHcc7e5v9tMvuhWH7OUJwzRJDrh-baUnaQ"
+   },
+   {
+    "id": 216933140,
+    "members_count": 357,
+    "members_count_text": "357 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-8.vkuserphoto.ru/impf/v0XuHg2mJXZgwsJox_Qbp-4kfCgkbyRZELl6Hw/WEsu3eIrHaA.jpg?size=200x80&quality=95&crop=41,16,1900,760&sign=882b382d8712b0bcef5536c7cf80e550&c_uniq_tag=t5df-FG9fBhW_pMW-Onwu05KeQn6umCfMH_B7pminYA&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-8.vkuserphoto.ru/impf/v0XuHg2mJXZgwsJox_Qbp-4kfCgkbyRZELl6Hw/WEsu3eIrHaA.jpg?size=400x160&quality=95&crop=41,16,1900,760&sign=226fbfc85e5d29bb1d0f39c463791888&c_uniq_tag=yCxb3uQIxD8R78WKmuG3iGccM60XNYIqEEaUbYR7pwI&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-8.vkuserphoto.ru/impf/v0XuHg2mJXZgwsJox_Qbp-4kfCgkbyRZELl6Hw/WEsu3eIrHaA.jpg?size=911x364&quality=95&crop=41,16,1900,760&sign=1c59409f14cdde199dea673f6c004efd&c_uniq_tag=rSCJbAFZDCUPPdHfI99p8bSE1S5GF2e0RnZBRnrHfhk&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-8.vkuserphoto.ru/impf/v0XuHg2mJXZgwsJox_Qbp-4kfCgkbyRZELl6Hw/WEsu3eIrHaA.jpg?size=1080x432&quality=95&crop=41,16,1900,760&sign=2348df9bbc1e1390f4406ddeeddcee29&c_uniq_tag=MzowZ7TyUNWkDFQYqEXXMp4rqkk9CibnRUTEXvXVII8&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-8.vkuserphoto.ru/impf/v0XuHg2mJXZgwsJox_Qbp-4kfCgkbyRZELl6Hw/WEsu3eIrHaA.jpg?size=1920x768&quality=95&crop=41,16,1900,760&sign=3d1fa34165968f48d827b0ddb3e0b5a7&c_uniq_tag=bM7GI0A9jVjmHt1aKqvpuooyS-_eY4sDM-xxq7ErkMo&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#CF3E12",
+    "activity": "Video games",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 3,
+    "is_government_organization": false,
+    "name": "Quill & Blade — Games",
+    "screen_name": "quillandblade",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun1-29.vkuserphoto.ru/s/v1/ig2/apaq1UxeVne5Yda0A5AfKJq21PVYdKLrIABKXJXA3KNYff_F9QECqBKF4pl19qpgibTGswa2XFGf0YQhYpT2bIXK.jpg?quality=95&crop=256,0,1024,1024&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JIEb59L7EZERoStigIk1Mrt1yWiFz3fHq84jPuodzd8&cs=50x50",
+    "photo_100": "https://sun1-29.vkuserphoto.ru/s/v1/ig2/apaq1UxeVne5Yda0A5AfKJq21PVYdKLrIABKXJXA3KNYff_F9QECqBKF4pl19qpgibTGswa2XFGf0YQhYpT2bIXK.jpg?quality=95&crop=256,0,1024,1024&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JIEb59L7EZERoStigIk1Mrt1yWiFz3fHq84jPuodzd8&cs=100x100",
+    "photo_200": "https://sun1-29.vkuserphoto.ru/s/v1/ig2/apaq1UxeVne5Yda0A5AfKJq21PVYdKLrIABKXJXA3KNYff_F9QECqBKF4pl19qpgibTGswa2XFGf0YQhYpT2bIXK.jpg?quality=95&crop=256,0,1024,1024&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JIEb59L7EZERoStigIk1Mrt1yWiFz3fHq84jPuodzd8&cs=200x200",
+    "photo_base": "https://sun1-29.vkuserphoto.ru/s/v1/ig2/apaq1UxeVne5Yda0A5AfKJq21PVYdKLrIABKXJXA3KNYff_F9QECqBKF4pl19qpgibTGswa2XFGf0YQhYpT2bIXK.jpg?quality=95&crop=256,0,1024,1024&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=JIEb59L7EZERoStigIk1Mrt1yWiFz3fHq84jPuodzd8"
+   },
+   {
+    "id": 222274106,
+    "members_count": 292,
+    "members_count_text": "292 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-63.vkuserphoto.ru/HCFJz_dKUYH3L3tUIs-IkSBHCVcJj3wDk3Qt4Q/41qTFTpOdwA.jpg",
+       "width": 200,
+       "height": 67
+      },
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/DxzSEZ2vTe53rbmKnEHtthKu2MrXp2jgNE7wvw/VRxYlPBtHWY.jpg",
+       "width": 400,
+       "height": 134
+      },
+      {
+       "url": "https://sun9-39.vkuserphoto.ru/32Emh-wUrKbbuM4cdxef080d2ceJ6WRDK5oxBw/F39WkFfLdSI.jpg",
+       "width": 909,
+       "height": 303
+      },
+      {
+       "url": "https://sun9-84.vkuserphoto.ru/fZ1u77nhY2xWppa2FO7VWemwWcBDs3YkyH3rTQ/xoQoJH3xp7s.jpg",
+       "width": 1080,
+       "height": 360
+      },
+      {
+       "url": "https://sun9-87.vkuserphoto.ru/Iq2zgI1tp3L0TtYfOKBgY7yj-BxE7H5jgPnIig/0lm2UdeDE6c.jpg",
+       "width": 1818,
+       "height": 606
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#FBD700",
+    "activity": "Animals",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": true
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "ПЛАТОН'S ПИТОНS — Королевские питоны",
+    "screen_name": "platons_pythons",
+    "is_closed": 0,
+    "type": "page",
+    "verified": 0,
+    "photo_50": "https://sun9-2.vkuserphoto.ru/s/v1/ig2/i_BB4jqEjxa3Lktq9ZRHamHFVJPUNNBLDSqSzjb2Ui_dJHvaIsHqlb9pmygFPsubTPDlm26ILZO2OfTAu73V9Oiv.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=KbjrSFSxwoUE2EVmXntuMCNJB4TQeCMO-D0dsUlVgqc&cs=50x50",
+    "photo_100": "https://sun9-2.vkuserphoto.ru/s/v1/ig2/i_BB4jqEjxa3Lktq9ZRHamHFVJPUNNBLDSqSzjb2Ui_dJHvaIsHqlb9pmygFPsubTPDlm26ILZO2OfTAu73V9Oiv.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=KbjrSFSxwoUE2EVmXntuMCNJB4TQeCMO-D0dsUlVgqc&cs=100x100",
+    "photo_200": "https://sun9-2.vkuserphoto.ru/s/v1/ig2/i_BB4jqEjxa3Lktq9ZRHamHFVJPUNNBLDSqSzjb2Ui_dJHvaIsHqlb9pmygFPsubTPDlm26ILZO2OfTAu73V9Oiv.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=KbjrSFSxwoUE2EVmXntuMCNJB4TQeCMO-D0dsUlVgqc&cs=200x200",
+    "photo_base": "https://sun9-2.vkuserphoto.ru/s/v1/ig2/i_BB4jqEjxa3Lktq9ZRHamHFVJPUNNBLDSqSzjb2Ui_dJHvaIsHqlb9pmygFPsubTPDlm26ILZO2OfTAu73V9Oiv.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=KbjrSFSxwoUE2EVmXntuMCNJB4TQeCMO-D0dsUlVgqc"
+   },
+   {
+    "id": 224802714,
+    "members_count": 234,
+    "members_count_text": "234 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-72.vkuserphoto.ru/impf/TJFH2Ewj6y9NHLyKTN4scY45eDOG8jjIXcWT6g/w1HN8tyegBA.jpg?size=200x80&quality=95&crop=0,1693,1840,735&sign=c019b1df085d402c0a6813fb86290c1b&c_uniq_tag=yIiKXf93FGtgGGzCcPkD-qdxOsYTpyeggqA4ACuJeaE&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-72.vkuserphoto.ru/impf/TJFH2Ewj6y9NHLyKTN4scY45eDOG8jjIXcWT6g/w1HN8tyegBA.jpg?size=400x160&quality=95&crop=0,1693,1840,735&sign=387cb01a0989454204a3738f04614f0e&c_uniq_tag=47URAFKSq6N-PPXDlg-PifJUbbKaUOykg4ZupR722fE&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-72.vkuserphoto.ru/impf/TJFH2Ewj6y9NHLyKTN4scY45eDOG8jjIXcWT6g/w1HN8tyegBA.jpg?size=911x364&quality=95&crop=0,1693,1840,735&sign=a98d3c82168376a535db830ddccd222c&c_uniq_tag=_dW0ts6S_a7ndwjAwennu-qqbcUvJKlYXvaa5cUMWiw&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-72.vkuserphoto.ru/impf/TJFH2Ewj6y9NHLyKTN4scY45eDOG8jjIXcWT6g/w1HN8tyegBA.jpg?size=1080x432&quality=95&crop=0,1693,1840,735&sign=d8c3bc181f87e126d34b9b4b2a9ce9fb&c_uniq_tag=eEzkXhRPVkwHU4AWN19FdtFC1Bx-ZvqJVgph4lAqZBw&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-72.vkuserphoto.ru/impf/TJFH2Ewj6y9NHLyKTN4scY45eDOG8jjIXcWT6g/w1HN8tyegBA.jpg?size=1920x768&quality=95&crop=0,1693,1840,735&sign=72d052ad6bd1e8cd299890cd1abed2e9&c_uniq_tag=EkremiuC6e6CC2nV8eMAk_j6ONoyFw_FJiPh3gC_VXg&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#A3AF5D",
+    "activity": "Animals",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": true,
+     "main_address_id": 87106,
+     "main_address": {
+      "id": 87106,
+      "address": "ТИНАО",
+      "city": {
+       "id": 1,
+       "title": "Moscow"
+      },
+      "country": {
+       "id": 1,
+       "title": "Russia"
+      },
+      "title": "Новомосковский административный округ",
+      "work_info_status": "no_information"
+     },
+     "count": 1
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Pro Regius | Королевские питоны Москва",
+    "screen_name": "proregius",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun9-53.vkuserphoto.ru/s/v1/ig2/S-qOVWQYl4TwW_VwW5XKbyOFH6c76QTAkOJwmtcVO2M7RgJQlgCoiMAfA82mNrX4ztkG1F_blWvMa2bp5ZJe6ruj.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=L5N2ecON7vRzTPv9SdxCnxUCekLib1Vlmpr2HnYsQpU&cs=50x50",
+    "photo_100": "https://sun9-53.vkuserphoto.ru/s/v1/ig2/S-qOVWQYl4TwW_VwW5XKbyOFH6c76QTAkOJwmtcVO2M7RgJQlgCoiMAfA82mNrX4ztkG1F_blWvMa2bp5ZJe6ruj.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=L5N2ecON7vRzTPv9SdxCnxUCekLib1Vlmpr2HnYsQpU&cs=100x100",
+    "photo_200": "https://sun9-53.vkuserphoto.ru/s/v1/ig2/S-qOVWQYl4TwW_VwW5XKbyOFH6c76QTAkOJwmtcVO2M7RgJQlgCoiMAfA82mNrX4ztkG1F_blWvMa2bp5ZJe6ruj.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=L5N2ecON7vRzTPv9SdxCnxUCekLib1Vlmpr2HnYsQpU&cs=200x200",
+    "photo_base": "https://sun9-53.vkuserphoto.ru/s/v1/ig2/S-qOVWQYl4TwW_VwW5XKbyOFH6c76QTAkOJwmtcVO2M7RgJQlgCoiMAfA82mNrX4ztkG1F_blWvMa2bp5ZJe6ruj.jpg?quality=95&crop=0,0,2560,2560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&ava=1&u=L5N2ecON7vRzTPv9SdxCnxUCekLib1Vlmpr2HnYsQpU"
+   },
+   {
+    "id": 230050227,
+    "members_count": 42,
+    "members_count_text": "42 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-45.vkuserphoto.ru/F4BY-wo5N26TN6GrAXCsvNSFwNqbO1ag7G9BAA/_b6wF02Pa94.jpg",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-4.vkuserphoto.ru/06__KNT94tJ-DlpK-DX3-vrfsZME2LwqhIlN9w/R518dYh-tJU.jpg",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-84.vkuserphoto.ru/9qpHIFaDKmSBweg9PwH__D89lDL_cC48I6BduA/9WPwSkHterc.jpg",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-80.vkuserphoto.ru/vvC1DIySZgz7Ij_J3TsZUr6coaado9y2efv7Xw/sdzP_hR7XCk.jpg",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-51.vkuserphoto.ru/S_GM8g0Th_I0jxr8aukHAoAt5phtRpC3i1zk7A/LMXg4PfBWeA.jpg",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#B2AC88",
+    "activity": "Healthy lifestyle",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "Питонов",
+    "screen_name": "pitonovmax",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-24.vkuserphoto.ru/s/v1/ig2/1F7PiFl0xFMLAIkk3VGAQdGzhNQ4RQnrkRB2ROusIPwRiEhNMw-E7JUDSfMMUGFjVCfuy9bwqAWJ_F14H4QVB1mW.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=QA14yLYEpDOMm3PqqTOrQrfLEMZjdw0fJgUGWUhf4Kc&cs=50x50",
+    "photo_100": "https://sun1-24.vkuserphoto.ru/s/v1/ig2/1F7PiFl0xFMLAIkk3VGAQdGzhNQ4RQnrkRB2ROusIPwRiEhNMw-E7JUDSfMMUGFjVCfuy9bwqAWJ_F14H4QVB1mW.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=QA14yLYEpDOMm3PqqTOrQrfLEMZjdw0fJgUGWUhf4Kc&cs=100x100",
+    "photo_200": "https://sun1-24.vkuserphoto.ru/s/v1/ig2/1F7PiFl0xFMLAIkk3VGAQdGzhNQ4RQnrkRB2ROusIPwRiEhNMw-E7JUDSfMMUGFjVCfuy9bwqAWJ_F14H4QVB1mW.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=QA14yLYEpDOMm3PqqTOrQrfLEMZjdw0fJgUGWUhf4Kc&cs=200x200",
+    "photo_base": "https://sun1-24.vkuserphoto.ru/s/v1/ig2/1F7PiFl0xFMLAIkk3VGAQdGzhNQ4RQnrkRB2ROusIPwRiEhNMw-E7JUDSfMMUGFjVCfuy9bwqAWJ_F14H4QVB1mW.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&u=QA14yLYEpDOMm3PqqTOrQrfLEMZjdw0fJgUGWUhf4Kc"
+   },
+   {
+    "id": 232235211,
+    "members_count": 66,
+    "members_count_text": "66 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/impf/dx7l94JekdmlAixqUHDHqnySOjeAnD5XJSCVHg/Q3JTSjn3N6c.jpg?size=200x80&quality=95&crop=0,0,960,383&sign=a3106d3db03d8840c39bcc0536073b4d&c_uniq_tag=yfW7WFkatpg6u0b3_Qz8sW-Jlms1jq3t2Cxnm3FB_bQ&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/impf/dx7l94JekdmlAixqUHDHqnySOjeAnD5XJSCVHg/Q3JTSjn3N6c.jpg?size=400x160&quality=95&crop=0,0,960,383&sign=725ed3ee1431ec927a6dc53b2b3033c3&c_uniq_tag=ad2e3pD_A1b0uxkYLL1W9eRpwhcL57fYazSye6CzYF8&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/impf/dx7l94JekdmlAixqUHDHqnySOjeAnD5XJSCVHg/Q3JTSjn3N6c.jpg?size=911x364&quality=95&crop=0,0,960,383&sign=f9cc5415cce126e1616e32bc34a32e7c&c_uniq_tag=xkE4P5I-UBgvlanv0PYXH4qcFgNwEBObZDa-MuhqYSg&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/impf/dx7l94JekdmlAixqUHDHqnySOjeAnD5XJSCVHg/Q3JTSjn3N6c.jpg?size=1080x432&quality=95&crop=0,0,960,383&sign=cebeb8eaf6324e20d8422d677f6a34e5&c_uniq_tag=ncfUQMwAeJrkEeZKvsjZurLilp_94Ci1ZVcbMcSQJ-g&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-68.vkuserphoto.ru/impf/dx7l94JekdmlAixqUHDHqnySOjeAnD5XJSCVHg/Q3JTSjn3N6c.jpg?size=1920x768&quality=95&crop=0,0,960,383&sign=a8a1a24f5b1dfa60da33688793f25ffe&c_uniq_tag=V5RExNDK7UhWE08YsXdWDX_GLAsOUJymRFaB-IU8VUk&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#002C5B",
+    "activity": "Training courses",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "PROкод | Программирование просто",
+    "screen_name": "procode_courses",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-55.vkuserphoto.ru/s/v1/ig2/GO9RfMQzWPWqo4mK9Cm7D54h7LB0w3GFu5TM1c-UFDL1YTy11nRInWOApJOpvmgXlbK690QFJLuHKNxzF7_25K4l.jpg?quality=95&crop=17,27,1008,1008&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=e4awL8L-QcXGEnVYdV3YImi62PSUA0kEz486sBz2bU8&cs=50x50",
+    "photo_100": "https://sun1-55.vkuserphoto.ru/s/v1/ig2/GO9RfMQzWPWqo4mK9Cm7D54h7LB0w3GFu5TM1c-UFDL1YTy11nRInWOApJOpvmgXlbK690QFJLuHKNxzF7_25K4l.jpg?quality=95&crop=17,27,1008,1008&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=e4awL8L-QcXGEnVYdV3YImi62PSUA0kEz486sBz2bU8&cs=100x100",
+    "photo_200": "https://sun1-55.vkuserphoto.ru/s/v1/ig2/GO9RfMQzWPWqo4mK9Cm7D54h7LB0w3GFu5TM1c-UFDL1YTy11nRInWOApJOpvmgXlbK690QFJLuHKNxzF7_25K4l.jpg?quality=95&crop=17,27,1008,1008&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=e4awL8L-QcXGEnVYdV3YImi62PSUA0kEz486sBz2bU8&cs=200x200",
+    "photo_base": "https://sun1-55.vkuserphoto.ru/s/v1/ig2/GO9RfMQzWPWqo4mK9Cm7D54h7LB0w3GFu5TM1c-UFDL1YTy11nRInWOApJOpvmgXlbK690QFJLuHKNxzF7_25K4l.jpg?quality=95&crop=17,27,1008,1008&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=e4awL8L-QcXGEnVYdV3YImi62PSUA0kEz486sBz2bU8"
+   },
+   {
+    "id": 236491283,
+    "members_count": 22,
+    "members_count_text": "22 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/V7GADXQx_F44kQ7BQJBCkMlJ2uBtyIaxRNV1bA/qHY3PJ2AlT4.jpg?size=200x80&quality=95&crop=0,101,1920,767&sign=8c80209cc459c496860900f7d68bfe83&c_uniq_tag=r7vDC8YcTfGFoH8QBtjYcPOpZCx4_KCdX-Hk7e1j5OI&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/V7GADXQx_F44kQ7BQJBCkMlJ2uBtyIaxRNV1bA/qHY3PJ2AlT4.jpg?size=400x160&quality=95&crop=0,101,1920,767&sign=6d64bde244f17f348070cb5ba23c1d8a&c_uniq_tag=Ex8Pq12p1CY5CRm5-CoQfUqho8Zwpwc50NxR3V_Qzq0&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/V7GADXQx_F44kQ7BQJBCkMlJ2uBtyIaxRNV1bA/qHY3PJ2AlT4.jpg?size=911x364&quality=95&crop=0,101,1920,767&sign=691d65119f70a5c97773a2f1c8345496&c_uniq_tag=vsvx6z-aCdTilKZGhOO9_guvb5uI_xBAhqhDBn32mYk&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/V7GADXQx_F44kQ7BQJBCkMlJ2uBtyIaxRNV1bA/qHY3PJ2AlT4.jpg?size=1080x432&quality=95&crop=0,101,1920,767&sign=6106e4aff9f928aec99b17d3d39428c0&c_uniq_tag=yvxeI5L-IMZyE2GD7O7PgkdLe487vnI5RACFo1TBaSA&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/V7GADXQx_F44kQ7BQJBCkMlJ2uBtyIaxRNV1bA/qHY3PJ2AlT4.jpg?size=1920x768&quality=95&crop=0,101,1920,767&sign=cee41a6a52efea3f072f73f7eacf08a3&c_uniq_tag=URYuCSGKw5YFQHN9wzGGslg8uSnB6rYyD5dhsWLhvCg&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#000000",
+    "activity": "Technology",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "AlexAvr",
+    "screen_name": "alexavr_tech",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-26.vkuserphoto.ru/s/v1/ig2/48__0au_8KV9tiVCN8QHFNnRUQnkaxhOOeA1TWONLvdRzJqR3EFS8_Ela8Qs6_wwzdSmlBX-wd2aalB6_k4BwltH.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=z1We9Mcl-_Fs0C-9gSgZzbw6n2S-UD8KyzF44VuGP-U&cs=50x50",
+    "photo_100": "https://sun1-26.vkuserphoto.ru/s/v1/ig2/48__0au_8KV9tiVCN8QHFNnRUQnkaxhOOeA1TWONLvdRzJqR3EFS8_Ela8Qs6_wwzdSmlBX-wd2aalB6_k4BwltH.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=z1We9Mcl-_Fs0C-9gSgZzbw6n2S-UD8KyzF44VuGP-U&cs=100x100",
+    "photo_200": "https://sun1-26.vkuserphoto.ru/s/v1/ig2/48__0au_8KV9tiVCN8QHFNnRUQnkaxhOOeA1TWONLvdRzJqR3EFS8_Ela8Qs6_wwzdSmlBX-wd2aalB6_k4BwltH.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=z1We9Mcl-_Fs0C-9gSgZzbw6n2S-UD8KyzF44VuGP-U&cs=200x200",
+    "photo_base": "https://sun1-26.vkuserphoto.ru/s/v1/ig2/48__0au_8KV9tiVCN8QHFNnRUQnkaxhOOeA1TWONLvdRzJqR3EFS8_Ela8Qs6_wwzdSmlBX-wd2aalB6_k4BwltH.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=z1We9Mcl-_Fs0C-9gSgZzbw6n2S-UD8KyzF44VuGP-U"
+   },
+   {
+    "id": 240115195,
+    "members_count": 66,
+    "members_count_text": "66 followers",
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/ZZPC_v7S_yISCRfY4kenoU5xNdw8PZVCF8sO0A/vpp5JLQdxYQ.jpg?size=200x80&quality=95&crop=0,0,1280,511&sign=90398ccd030d8875c422e9ac8b4290a8&c_uniq_tag=r1EK5jzVhulQnqw6p-3cPZwcB50jrsyDIW-zAVRNwSs&type=cover_group",
+       "width": 200,
+       "height": 80
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/ZZPC_v7S_yISCRfY4kenoU5xNdw8PZVCF8sO0A/vpp5JLQdxYQ.jpg?size=400x160&quality=95&crop=0,0,1280,511&sign=64c6314d82969879eaea5f5f27ffcaa7&c_uniq_tag=u29DKQZRGHic9na5dw2j6rnTfsCY3sV1YW4qBNqcmhw&type=cover_group",
+       "width": 400,
+       "height": 160
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/ZZPC_v7S_yISCRfY4kenoU5xNdw8PZVCF8sO0A/vpp5JLQdxYQ.jpg?size=911x364&quality=95&crop=0,0,1280,511&sign=3fa5c02781ed94c669a5fcd5e24ef3b8&c_uniq_tag=1pK-GCKF6ZSwiExPzxkLjCZUQaA1wwMGwYjei5Wof30&type=cover_group",
+       "width": 911,
+       "height": 364
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/ZZPC_v7S_yISCRfY4kenoU5xNdw8PZVCF8sO0A/vpp5JLQdxYQ.jpg?size=1080x432&quality=95&crop=0,0,1280,511&sign=ef694e290f4a76930200b0133f9967ee&c_uniq_tag=acHSDEECQMsqaiqNsqAVUC03XfrCck2X6QfQ207uy3g&type=cover_group",
+       "width": 1080,
+       "height": 432
+      },
+      {
+       "url": "https://sun9-49.vkuserphoto.ru/impf/ZZPC_v7S_yISCRfY4kenoU5xNdw8PZVCF8sO0A/vpp5JLQdxYQ.jpg?size=1920x768&quality=95&crop=0,0,1280,511&sign=6b35c5e8a725711d87149228c947ab4d&c_uniq_tag=2ER7tRDmuiN5Glfg8IB6EfqEgTbQSvWdwJKl2bcmDis&type=cover_group",
+       "width": 1920,
+       "height": 768
+      }
+     ]
+    },
+    "video_lives_data": {
+     "has_live_block": false,
+     "has_badge": false
+    },
+    "photo_avg_color": "#000000",
+    "activity": "Education",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": true,
+     "main_address_id": 93492,
+     "main_address": {
+      "id": 93492,
+      "address": "Серов, ул. Кузьмина 9,этаж 2, кабинет 1",
+      "city": {
+       "id": 668,
+       "title": "Serov"
+      },
+      "country": {
+       "id": 1,
+       "title": "Russia"
+      },
+      "title": "улица Кузьмина, 9",
+      "work_info_status": "no_information"
+     },
+     "count": 1
+    },
+    "trust_mark": 0,
+    "is_government_organization": false,
+    "name": "КОМПЬЮТЕРНАЯ АКАДЕМИЯ+  Серов |   Обучение IT",
+    "screen_name": "komp_academy_serov",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-85.vkuserphoto.ru/s/v1/ig2/WEPBSNTh5qR1bsJ1suWcNSP9rtZ1x5ArBmG7-n5HUWrWbn_4UQpHqESL8ZEOzpsH7yckZ9Eju1STO7Tbx3AjDjFK.jpg?quality=95&crop=0,0,1254,1254&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U2Q7J3J1olgyWX3_6D57XLZB2sDFj9qLnTAKuoA-hBc&cs=50x50",
+    "photo_100": "https://sun1-85.vkuserphoto.ru/s/v1/ig2/WEPBSNTh5qR1bsJ1suWcNSP9rtZ1x5ArBmG7-n5HUWrWbn_4UQpHqESL8ZEOzpsH7yckZ9Eju1STO7Tbx3AjDjFK.jpg?quality=95&crop=0,0,1254,1254&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U2Q7J3J1olgyWX3_6D57XLZB2sDFj9qLnTAKuoA-hBc&cs=100x100",
+    "photo_200": "https://sun1-85.vkuserphoto.ru/s/v1/ig2/WEPBSNTh5qR1bsJ1suWcNSP9rtZ1x5ArBmG7-n5HUWrWbn_4UQpHqESL8ZEOzpsH7yckZ9Eju1STO7Tbx3AjDjFK.jpg?quality=95&crop=0,0,1254,1254&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U2Q7J3J1olgyWX3_6D57XLZB2sDFj9qLnTAKuoA-hBc&cs=200x200",
+    "photo_base": "https://sun1-85.vkuserphoto.ru/s/v1/ig2/WEPBSNTh5qR1bsJ1suWcNSP9rtZ1x5ArBmG7-n5HUWrWbn_4UQpHqESL8ZEOzpsH7yckZ9Eju1STO7Tbx3AjDjFK.jpg?quality=95&crop=0,0,1254,1254&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&ava=1&u=U2Q7J3J1olgyWX3_6D57XLZB2sDFj9qLnTAKuoA-hBc"
+   }
+  ]
+ }
+}

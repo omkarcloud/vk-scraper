@@ -1,0 +1,20 @@
+{
+ "response": [
+  {
+   "id": 2,
+   "photo_200": "https://sun1-15.vkuserphoto.ru/impg/P7OMjXl-uT8Vjyw2FSQo4kw0dHJ2fNF3Fhmwdw/9UV6t1Q1fsE.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=de80479dc05fe5fd1342cbf1e0f1f259&u=W6K9-Ee_FeOSMGFMMwf2ykQkOOm9i865upriOxt9mTg&cs=200x200",
+   "has_photo": 1,
+   "cover": {
+    "enabled": 1
+   },
+   "is_nft": false,
+   "screen_name": "alexandra",
+   "photo_100": "https://sun1-15.vkuserphoto.ru/impg/P7OMjXl-uT8Vjyw2FSQo4kw0dHJ2fNF3Fhmwdw/9UV6t1Q1fsE.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=de80479dc05fe5fd1342cbf1e0f1f259&u=W6K9-Ee_FeOSMGFMMwf2ykQkOOm9i865upriOxt9mTg&cs=100x100",
+   "photo_base": "https://sun1-15.vkuserphoto.ru/impg/P7OMjXl-uT8Vjyw2FSQo4kw0dHJ2fNF3Fhmwdw/9UV6t1Q1fsE.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=de80479dc05fe5fd1342cbf1e0f1f259&u=W6K9-Ee_FeOSMGFMMwf2ykQkOOm9i865upriOxt9mTg",
+   "first_name": "Alexandra",
+   "last_name": "Vladimirova",
+   "can_access_closed": false,
+   "is_closed": true
+  }
+ ]
+}

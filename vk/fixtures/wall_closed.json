@@ -1,0 +1,36 @@
+{
+ "error": {
+  "error_code": 15,
+  "error_msg": "Access denied: user hid his wall from accessing from outside",
+  "request_params": [
+   {
+    "key": "v",
+    "value": "5.289"
+   },
+   {
+    "key": "client_id",
+    "value": "6287487"
+   },
+   {
+    "key": "method",
+    "value": "wall.get"
+   },
+   {
+    "key": "oauth",
+    "value": "1"
+   },
+   {
+    "key": "owner_id",
+    "value": "2"
+   },
+   {
+    "key": "count",
+    "value": "5"
+   },
+   {
+    "key": "domain",
+    "value": "2"
+   }
+  ]
+ }
+}

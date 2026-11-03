@@ -1,0 +1,208 @@
+{
+ "response": {
+  "count": 1,
+  "groups": [
+   {
+    "id": 22822305,
+    "is_admin": 0,
+    "is_advertiser": 0,
+    "is_closed": 0,
+    "is_member": 0,
+    "name": "ВКонтакте",
+    "photo_100": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/pwleXCZISIpQkgZ97gK9zZXPJecznMP-2iHH7dFbzmPqPVa_B9zwEKEabSZzCS6y2_jSE6Hf2C4YWp9EyN45KPOL.jpg?as=100x100%2C32x32%2C48x48%2C72x72&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_200": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/mALerFaQUS9BoniG9qvTdvDfnJMV5d3HOABpIXjuXUv1lOdDbrq2dwIlBWvEkt8rVyDNn4MpClarN4uz6NXElglZ.jpg?as=200x200%2C32x32%2C48x48%2C72x72%2C108x108%2C160x160&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_50": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/8hVwab4fcJyGJseFEz2LJpR40E2P58-kr0OShUiMTIAfKxUBoA0_eqHJEaxas1q74A0W3m-bBcbxl26fgu6vd-GU.jpg?as=50x50%2C32x32%2C48x48&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_base": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/U7MgrldjKzGd7vALrNpY9CXnc7hv8ErhobzSXOTNLZa_ZQI0k-DzwVAoXpMcu9Ps7MmA8HmrVh0sIScQbyrYWHWd.jpg?as=540x540%2C32x32%2C48x48%2C72x72%2C108x108%2C160x160%2C240x240%2C360x360%2C480x480%2C540x540&crop=0%2C0%2C540%2C540&quality=95",
+    "screen_name": "vk",
+    "type": "page",
+    "verified": 1,
+    "has_photo": 1,
+    "is_confirmed_business": false,
+    "is_educational": false,
+    "is_golden_marked_business": false,
+    "is_government_organization": false,
+    "is_video_subscription_hidden": false,
+    "member_status": 0,
+    "members_count": 14146625,
+    "photo_avg_color": "#005DCE",
+    "trending": 0
+   }
+  ],
+  "items": [
+   {
+    "can_dislike": 1,
+    "can_download": 2,
+    "can_like": 1,
+    "can_repost": 1,
+    "can_subscribe": 1,
+    "comments": 1,
+    "date": 1793699424,
+    "description": "Ко Дню народного единства поделитесь теплом с друзьями и близкими — подарите им [https://vk.ru/gifts/catalog?ref=promo_post22|праздничный колокольчик] 🔔\n\nОтправить подарок можно 3 раза бесплатно, а дальше за 5 голосов. Если хотите колокольчик себе, выберите своё имя в списке получателей.",
+    "download": {
+     "can_download_for_offline_view": false,
+     "can_download_to_device": true
+    },
+    "duration": 15,
+    "first_frame": [
+     {
+      "height": 720,
+      "url": "https://iv.okcdn.ru/videoPreview?id=20285915859482&idx=0&scl=4&type=43&tkn=tZp4L5duE1F-hEsFsxCMXsW2Ong&cs=405x720",
+      "width": 405
+     },
+     {
+      "height": 240,
+      "url": "https://iv.okcdn.ru/videoPreview?id=20285915859482&idx=0&scl=4&type=43&tkn=tZp4L5duE1F-hEsFsxCMXsW2Ong&cs=135x240",
+      "width": 135
+     },
+     {
+      "height": 1280,
+      "url": "https://iv.okcdn.ru/videoPreview?id=20285915859482&idx=0&scl=4&type=43&tkn=tZp4L5duE1F-hEsFsxCMXsW2Ong&cs=720x1280",
+      "width": 720
+     },
+     {
+      "height": 1920,
+      "url": "https://iv.okcdn.ru/videoPreview?id=20285915859482&idx=0&scl=4&type=43&tkn=tZp4L5duE1F-hEsFsxCMXsW2Ong&cs=1080x1920",
+      "width": 1080
+     }
+    ],
+    "height": 1920,
+    "id": 456243518,
+    "image": [
+     {
+      "height": 640,
+      "url": "https://sun9-40.vkuserphoto.ru/s/v1/ig2/KGDaTEH8geBfC2R-uvM9Gfb0Gb01baNlj9I9pDVIiVyFwWcfm-wIMBhmoBGHhrNor58Y24z3yFy2vmRp88pRpIsJ.jpg?quality=95&size=360x640",
+      "width": 360
+     },
+     {
+      "height": 746,
+      "url": "https://sun9-40.vkuserphoto.ru/s/v1/ig2/Q50dFmDVixPfg9m_XTpvseJFDglNvInu_rHM9RymoWgIQQ4AGZiNFvN7R5uKQ021ryEBNZr3lJbIMTGaUBtWJbYw.jpg?quality=95&size=420x746",
+      "width": 420
+     },
+     {
+      "height": 746,
+      "url": "https://sun9-40.vkuserphoto.ru/s/v1/ig2/Q50dFmDVixPfg9m_XTpvseJFDglNvInu_rHM9RymoWgIQQ4AGZiNFvN7R5uKQ021ryEBNZr3lJbIMTGaUBtWJbYw.jpg?quality=95&size=420x746",
+      "width": 420
+     },
+     {
+      "height": 720,
+      "url": "https://sun9-40.vkuserphoto.ru/s/v1/ig2/55-oPtFtqUTQD6o1jclqODx8vTWT1POSbD4hQ6EBFhxeiuKhMdT8cRO06L015ZKfXsQHrFxqUw8oyicJ0MFVLZVP.jpg?quality=95&size=405x720",
+      "width": 405
+     },
+     {
+      "height": 746,
+      "url": "https://sun9-40.vkuserphoto.ru/s/v1/ig2/Q50dFmDVixPfg9m_XTpvseJFDglNvInu_rHM9RymoWgIQQ4AGZiNFvN7R5uKQ021ryEBNZr3lJbIMTGaUBtWJbYw.jpg?quality=95&size=420x746",
+      "width": 420
+     }
+    ],
+    "is_favorite": false,
+    "is_united_video": 1,
+    "likes": {
+     "count": 132,
+     "user_likes": 0
+    },
+    "local_views": 22722,
+    "ov_id": "17022531414298",
+    "owner_id": -22822305,
+    "repeat": 1,
+    "reposts": {
+     "count": 3
+    },
+    "response_type": "full",
+    "track_code": "video_2da53f75M9nQ-I0EVAxTACQeuX3vG7DQYxRP8WnH2HqVVPs6BMdVuPG81lgDURNvfjbjLasphONWJXf8L668HzvnMORxqTDK_cq_PGY-YDARQY1I2SmE41Yl",
+    "type": "short_video",
+    "views": 22722,
+    "width": 1080,
+    "action_button": {
+     "id": "",
+     "snippet": {
+      "description": "",
+      "open_title": "Отправить подарок",
+      "title": "",
+      "type_name": ""
+     },
+     "type": "link",
+     "url": "https://vk.ru/gifts/catalog?ref=promo_post22"
+    },
+    "files": {
+     "dash_sep": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ch=1383469691&ms=176.112.172.178&type=1&sig=pudjE7oE9rM&ct=6&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "dash_webm_av1": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ch=-748440151&ms=176.112.172.178&type=5&sig=EiSfYEYQ90k&ct=6&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "failover_host": "vkvd503.okcdn.ru",
+     "hls": "https://vkvd269.okcdn.ru/video.m3u8?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ch=-957391772&ms=176.112.172.178&mid=17022531414298&type=2&sig=fikYJLel1tE&ct=8&urls=185.226.55.141&clientType=13&zs=43&cmd=videoPlayerCdn&id=20285915859482&rjr=8",
+     "hls_fmp4": "https://vkvd269.okcdn.ru/video.m3u8?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ch=1383469691&ms=176.112.172.178&mid=17022531414298&type=4&sig=Eadtd7-DNVM&ct=8&urls=185.226.55.141&clientType=13&zs=43&cmd=videoPlayerCdn&id=20285915859482&rjr=8",
+     "mp4_1080": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=5&sig=fi6T_XHpqlI&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "mp4_144": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=4&sig=G9eqbKSA_tc&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "mp4_240": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=0&sig=94z5PF3Xmpw&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "mp4_360": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=1&sig=ydyXNueVSKM&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "mp4_480": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=2&sig=cCM65eznEK0&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8",
+     "mp4_720": "https://vkvd269.okcdn.ru/?srcIp=172.121.159.39&pr=41&expires=1794160132991&rjz=43&srcAg=CHROME_MAC&fromCache=1&ms=176.112.172.178&type=3&sig=6SwqFPaII9s&ct=0&urls=185.226.55.141&clientType=13&appId=512000384397&zs=43&id=20285915859482&rjr=8"
+    },
+    "short_video_info": {
+     "ads_features": {
+      "ads_flags": [],
+      "wb_item_id": []
+     },
+     "can_make_duet": true,
+     "clips_user_link_moderation": 0
+    },
+    "stats_pixels": [
+     {
+      "event": "start",
+      "url": "https://43212.ms.vk.ru"
+     },
+     {
+      "event": "heartbeat",
+      "params": {
+       "interval": 30
+      },
+      "url": "https://44212.ms.vk.ru"
+     },
+     {
+      "event": "pause",
+      "url": "https://44212.ms.vk.ru"
+     },
+     {
+      "event": "resume",
+      "url": "https://44212.ms.vk.ru"
+     },
+     {
+      "event": "stop",
+      "url": "https://45212.ms.vk.ru"
+     },
+     {
+      "event": "pause",
+      "url": "https://ms.vkvideo.ru/short_video_mediascope?event_name=pause&video_owner_id=-22822305&video_id=456243518&user_id=0&device_type=web&platform=web2&ip=2893651751&video_type=short_video&media=0JLQmtC-0L3RgtCw0LrRgtC1&flags=0&hash=01d96b168b21b60e609f8bddd24e414b62b734cdf8434cb1d087b18b2e5691c139&fts={@fts_fake_sec}"
+     },
+     {
+      "event": "resume",
+      "url": "https://ms.vkvideo.ru/short_video_mediascope?event_name=resume&video_owner_id=-22822305&video_id=456243518&user_id=0&device_type=web&platform=web2&ip=2893651751&video_type=short_video&media=0JLQmtC-0L3RgtCw0LrRgtC1&flags=0&hash=01ed0a3bf76c1fdc861ab5dea7ca381916135d74f88520158c7beb8722e14d2b2f&fts={@fts_fake_sec}"
+     },
+     {
+      "event": "heartbeat",
+      "params": {
+       "interval": 30
+      },
+      "url": "https://ms.vkvideo.ru/short_video_mediascope?event_name=heartbeat&video_owner_id=-22822305&video_id=456243518&user_id=0&device_type=web&platform=web2&ip=2893651751&video_type=short_video&media=0JLQmtC-0L3RgtCw0LrRgtC1&flags=0&hash=019e8a50cdbc08b720e8b74db215e56ac5923ec45e84a933dcd90cb59c19fee2d1&fts={@fts_fake_sec}"
+     },
+     {
+      "event": "stop",
+      "url": "https://ms.vkvideo.ru/short_video_mediascope?event_name=stop&video_owner_id=-22822305&video_id=456243518&user_id=0&device_type=web&platform=web2&ip=2893651751&video_type=short_video&media=0JLQmtC-0L3RgtCw0LrRgtC1&flags=0&hash=01ab3eece6b143b4b54d486da260650ad955f0d457e0c3641c6b35ee7077606f92&fts={@fts_fake_sec}"
+     }
+    ],
+    "timeline_thumbs": {
+     "count_per_image": 9,
+     "count_per_row": 3,
+     "count_total": 16,
+     "frame_height": 320,
+     "frame_width": 180,
+     "frequency": 1,
+     "is_uv": true,
+     "links": [
+      "https://iv.okcdn.ru/videoPreview?id=20285915859482&scl=4&type=42&tkn=eu3kfaCO6CH6VdzeKf_AGlMUn5g&uidx=0",
+      "https://iv.okcdn.ru/videoPreview?id=20285915859482&scl=4&type=42&tkn=eu3kfaCO6CH6VdzeKf_AGlMUn5g&uidx=1"
+     ]
+    }
+   }
+  ],
+  "max_attached_short_videos": 20
+ }
+}

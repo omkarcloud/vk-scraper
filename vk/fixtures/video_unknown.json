@@ -1,0 +1,73 @@
+{
+ "response": {
+  "count": 1,
+  "groups": [
+   {
+    "id": 22822305,
+    "is_admin": 0,
+    "is_advertiser": 0,
+    "is_closed": 0,
+    "is_member": 0,
+    "name": "ВКонтакте",
+    "photo_100": "https://sun9-37.userapi.com/s/v1/ig2/pwleXCZISIpQkgZ97gK9zZXPJecznMP-2iHH7dFbzmPqPVa_B9zwEKEabSZzCS6y2_jSE6Hf2C4YWp9EyN45KPOL.jpg?as=100x100%2C32x32%2C48x48%2C72x72&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_200": "https://sun9-37.userapi.com/s/v1/ig2/mALerFaQUS9BoniG9qvTdvDfnJMV5d3HOABpIXjuXUv1lOdDbrq2dwIlBWvEkt8rVyDNn4MpClarN4uz6NXElglZ.jpg?as=200x200%2C32x32%2C48x48%2C72x72%2C108x108%2C160x160&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_50": "https://sun9-37.userapi.com/s/v1/ig2/8hVwab4fcJyGJseFEz2LJpR40E2P58-kr0OShUiMTIAfKxUBoA0_eqHJEaxas1q74A0W3m-bBcbxl26fgu6vd-GU.jpg?as=50x50%2C32x32%2C48x48&crop=0%2C0%2C540%2C540&quality=95",
+    "photo_base": "https://sun9-37.userapi.com/s/v1/ig2/U7MgrldjKzGd7vALrNpY9CXnc7hv8ErhobzSXOTNLZa_ZQI0k-DzwVAoXpMcu9Ps7MmA8HmrVh0sIScQbyrYWHWd.jpg?as=540x540%2C32x32%2C48x48%2C72x72%2C108x108%2C160x160%2C240x240%2C360x360%2C480x480%2C540x540&crop=0%2C0%2C540%2C540&quality=95",
+    "screen_name": "vk",
+    "type": "page",
+    "verified": 1,
+    "has_photo": 1,
+    "is_confirmed_business": false,
+    "is_educational": false,
+    "is_golden_marked_business": false,
+    "is_government_organization": false,
+    "is_video_subscription_hidden": false,
+    "member_status": 0,
+    "members_count": 14146625,
+    "photo_avg_color": "#005DCE",
+    "trending": 0
+   }
+  ],
+  "items": [
+   {
+    "can_restore": 0,
+    "content_restricted": 1,
+    "content_restricted_message": "Video deleted",
+    "date": 0,
+    "duration": 0,
+    "id": 1,
+    "is_favorite": false,
+    "need_mute": 1,
+    "owner_id": -22822305,
+    "restriction": {
+     "blur": 0,
+     "can_play": 0,
+     "can_preview": 0,
+     "disclaimer_type": 0,
+     "icon_name": "delete_outline",
+     "offer_vkvideo": 0,
+     "text": "Video deleted",
+     "title": "Video deleted"
+    },
+    "track_code": "video_2af79059-t2v7fnbi0vAlYdMojbqaka6uuF_JggsROdJLT7hthP517Lfy-O5efOkshOTOpwDIt_VkiBJf0IhlUkt",
+    "tracking_info": {
+     "navigation": {
+      "source_block": "no_block",
+      "source_prev_screen": "no_source_prev_screen",
+      "source_screen": "videos_owner"
+     },
+     "recom_info": {
+      "feature_sampling_uuid": "",
+      "recom_sources": []
+     },
+     "search_info": {
+      "search_query_id": "0"
+     }
+    },
+    "type": "",
+    "views": 0
+   }
+  ],
+  "max_attached_short_videos": 20
+ }
+}

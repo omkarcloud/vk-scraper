@@ -1,0 +1,2008 @@
+{
+ "response": {
+  "count": 26,
+  "items": [
+   {
+    "access_key": "58c2d6497f872151a2",
+    "id": 217146,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1788525852,
+     "id": 457377695,
+     "owner_id": -22822305,
+     "thumb_hash": "8KUFHIS9ab2Ch3hfZYQNkNgBeQ",
+     "sizes": [
+      {
+       "height": 41,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=160x0"
+      },
+      {
+       "height": 361,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=640x0"
+      },
+      {
+       "height": 609,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=1080x0"
+      },
+      {
+       "height": 722,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=1280x0"
+      },
+      {
+       "height": 1150,
+       "type": "w",
+       "width": 2040,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=2040x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=240x0"
+      },
+      {
+       "height": 203,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw&cs=540x0"
+      },
+      {
+       "height": 1150,
+       "type": "base",
+       "width": 2040,
+       "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "2e2204dac86368e066",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1150,
+      "type": "base",
+      "url": "https://sun9-63.vkuserphoto.ru/s/v1/ig2/DU7PmOSihR1Jw6CsGFI4THVs-aGV-G72VrF52c-WuNtVHzxmm7rRgdiV7M0_YKlM83uQSqMzR_pp86MXsXXKzXQf.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=Zr_K2v65LL1iHgVDxRYvuu36m45ofqIZvZlslrhP6qw",
+      "width": 2040
+     }
+    },
+    "published_date": 1695897457,
+    "state": "available",
+    "subtitle": "от 28 апреля 2025 года",
+    "title": "Верификация ВКонтакте: новые критерии",
+    "url": "https://vk.ru/@vk-verify",
+    "view_url": "https://m.vk.ru/@vk-verify",
+    "views": 241585,
+    "shares": 1491,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 101,
+    "lead_description": "от 28 апреля 2025 года\nВерификация нужна, чтобы пользователи могли выделить официальную страницу сообщества или публичной личности среди всех остальных. Синяя галочка выдаётся активным страницам — отвечаем на главные вопросы о том, как всё работает. \nКак получить верификацию?\nДля получения или сохранения синей галочки верификации в профиле или сообществе нужно соответствовать условиям:\n• набрать и сохранять на странице не меньше 5 тысяч подписчиков;\n• регулярно публиковать не менее 1 единицы..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "f924e821ce18ab2964",
+    "id": 372718,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1787296981,
+     "id": 457377357,
+     "owner_id": -22822305,
+     "thumb_hash": "HiYKPI6/vbardmech3i08R0JrQ",
+     "sizes": [
+      {
+       "height": 41,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=160x0"
+      },
+      {
+       "height": 361,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=640x0"
+      },
+      {
+       "height": 609,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=1080x0"
+      },
+      {
+       "height": 722,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=1280x0"
+      },
+      {
+       "height": 1150,
+       "type": "w",
+       "width": 2040,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=2040x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=240x0"
+      },
+      {
+       "height": 203,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0&cs=540x0"
+      },
+      {
+       "height": 1150,
+       "type": "base",
+       "width": 2040,
+       "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "a82e2262c15dc5c5f2",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1150,
+      "type": "base",
+      "url": "https://sun9-81.vkuserphoto.ru/s/v1/ig2/c0WpTDzSmprg_7B9KAkbk4UybDhq44yJVd23b6CwLBRs4hBEB42HRfBz_6D-KSIBWG4bs9z2VH0QD_9linriKSli.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=511eT77PjwBtyVqTDfhR12gUYhlwvxdfKQL0TDYPGT0",
+      "width": 2040
+     }
+    },
+    "published_date": 1787296990,
+    "state": "available",
+    "subtitle": "Белый, синий, красный — три цвета, которые объединяют всех россиян. Подготовили активности ко Дню флага: игру, подарки, статусы и многое..",
+    "title": "Праздничные активности от ВКонтакте",
+    "url": "https://vk.ru/@vk-prazdnichnye-aktivnosti-ot-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-prazdnichnye-aktivnosti-ot-vkontakte",
+    "views": 98,
+    "shares": 0,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 0,
+    "lead_description": "Белый, синий, красный — три цвета, которые объединяют всех россиян. Подготовили активности ко Дню флага: игру, подарки, статусы и многое другое. Праздник уже завтра — давайте встретим его вместе. \nНажмите на экран, чтобы поднять флаг в мини-игре. Чем выше триколор, тем больше достопримечательностей вы откроете. На какую высоту сможете поднять: до Медного всадника, Эльбруса или выше МКС?\nЕщё вы можете поставить флаг в статус, увидеть клипы из разных уголков России и отправить подарки друзьям...",
+    "is_pinned": false
+   },
+   {
+    "access_key": "87876d596cf92e92f4",
+    "id": 363070,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1783431353,
+     "id": 457375803,
+     "owner_id": -22822305,
+     "thumb_hash": "eOcFHIL8Vpd+pmeKVnsLmuTwCA",
+     "sizes": [
+      {
+       "height": 41,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=160x0"
+      },
+      {
+       "height": 361,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=640x0"
+      },
+      {
+       "height": 609,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=1080x0"
+      },
+      {
+       "height": 722,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=1280x0"
+      },
+      {
+       "height": 1150,
+       "type": "w",
+       "width": 2040,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=2040x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=240x0"
+      },
+      {
+       "height": 203,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4&cs=540x0"
+      },
+      {
+       "height": 1150,
+       "type": "base",
+       "width": 2040,
+       "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "3f98f28ae4e951f393",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1150,
+      "type": "base",
+      "url": "https://sun9-69.vkuserphoto.ru/s/v1/ig2/FwZNgbd8us4gqg2Kbp_J6HbFd2F9ecc9LZZydn9GTduB07C6dReJizH4qM8r87EcctwLTGuvhjJXWVKyKQJYOCc1.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=acGtfdm88cNoWbrxLT_dIjZ9UbFVlcJsKjBKENMPxr4",
+      "width": 2040
+     }
+    },
+    "published_date": 1783431358,
+    "state": "available",
+    "subtitle": "К 8 июля ВКонтакте появились тематические активности, сервисы и подарки. Рассказываем, как можно украсить свой профиль и поздравить близк..",
+    "title": "Активности ВКонтакте ко Дню семьи",
+    "url": "https://vk.ru/@vk-aktivnosti-vkontakte-ko-dnu-semi",
+    "view_url": "https://m.vk.ru/@vk-aktivnosti-vkontakte-ko-dnu-semi",
+    "views": 121,
+    "shares": 2,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 0,
+    "lead_description": "К 8 июля ВКонтакте появились тематические активности, сервисы и подарки. Рассказываем, как можно украсить свой профиль и поздравить близких. \nБукет к празднику можно собрать в сервисе Ромашки — первый цветок уже ждёт вас, а остальные можно получить за то, что приглашаете друзей. 8 июля отправляйте букет в сообщения близким или делитесь им в историях. \nЕщё в Ромашках сможете установить тематический статус, выложить праздничную открытку в историю или в пост и поучаствовать в других активностях..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "a07dd225f5397d868f",
+    "id": 360596,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1782381349,
+     "id": 457375157,
+     "owner_id": -22822305,
+     "thumb_hash": "IBIBDYJJZad3iHdgq4l4nzl3kHMH",
+     "sizes": [
+      {
+       "height": 48,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=72x0"
+      },
+      {
+       "height": 107,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=160x0"
+      },
+      {
+       "height": 427,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=640x0"
+      },
+      {
+       "height": 720,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=1080x0"
+      },
+      {
+       "height": 853,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=1280x0"
+      },
+      {
+       "height": 1000,
+       "type": "w",
+       "width": 1500,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=1500x0"
+      },
+      {
+       "height": 72,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=108x0"
+      },
+      {
+       "height": 160,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=240x0"
+      },
+      {
+       "height": 240,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=360x0"
+      },
+      {
+       "height": 360,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ&cs=540x0"
+      },
+      {
+       "height": 1000,
+       "type": "base",
+       "width": 1500,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "c8bbc41a7eefc204f5",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1000,
+      "type": "base",
+      "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/sp93kHMqV8RJWt2hRBY4wht8brt4uGx4CGkGm9-0QCLOgwNdhFele1F58gW_cLp2ILyLaAGFeEPHlAOcJzpxsY8B.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,1500x1000&from=bu&u=-Wi512bgsDar6uiJRBOtk2sNJaUC7If63hhEWOFKfDQ",
+      "width": 1500
+     }
+    },
+    "published_date": 1782380978,
+    "state": "available",
+    "subtitle": "Что случилось?",
+    "title": "Подробнее о работе приложения ВКонтакте на устройствах Apple",
+    "url": "https://vk.ru/@vk-app-apple",
+    "view_url": "https://m.vk.ru/@vk-app-apple",
+    "views": 292,
+    "shares": 2,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 32,
+    "lead_description": "Что случилось?\nПриложение ВКонтакте удалено компанией Apple, поэтому сейчас его не получится скачать или обновить в App Store. Мы направили запрос о предоставлении разъяснений в Apple.\nЧто будет с приложениями ВКонтакте, которые уже установлены на iPhone или iPad?\nУстановленные приложения продолжат работать в обычном режиме. В последние месяцы реализованы ключевые обновления наших основных продуктов, которые позволят приложениям оставаться актуальными продолжительное время.\nМожно ли удалить и..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "f682868dbda8b3c72f",
+    "id": 356508,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1780906808,
+     "id": 457374433,
+     "owner_id": -22822305,
+     "thumb_hash": "obMFRIYIVpeHZoiDaXIHhXMQWQ",
+     "sizes": [
+      {
+       "height": 41,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=160x0"
+      },
+      {
+       "height": 361,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=640x0"
+      },
+      {
+       "height": 609,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=1080x0"
+      },
+      {
+       "height": 722,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=1280x0"
+      },
+      {
+       "height": 1150,
+       "type": "w",
+       "width": 2040,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=2040x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=240x0"
+      },
+      {
+       "height": 203,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY&cs=540x0"
+      },
+      {
+       "height": 1150,
+       "type": "base",
+       "width": 2040,
+       "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "5e38fd942608e07dfa",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1150,
+      "type": "base",
+      "url": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/2qUI6n4di5hmP60-v3aBrBs625emen9mFEU7mg1KfyVjWfjC2Pe34JgkchrxM8V1tYmUxGAoLuaQfCe4WpWyPlNv.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=OEgGDSwGJY9K5ovRDFrbOixoiOIY1HAnDYW40t7KqjY",
+      "width": 2040
+     }
+    },
+    "published_date": 1780670840,
+    "state": "available",
+    "subtitle": "К 12 июня ВКонтакте появились тематические подарки и стикеры, статус в профиле и идея для историй. А ещё — тренд в клипах про любимые уго..",
+    "title": "День России ВКонтакте",
+    "url": "https://vk.ru/@vk-den-rossii-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-den-rossii-vkontakte",
+    "views": 643,
+    "shares": 4,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 0,
+    "lead_description": "К 12 июня ВКонтакте появились тематические подарки и стикеры, статус в профиле и идея для историй. А ещё — тренд в клипах про любимые уголки России и возможность собрать коллаж с символами страны. Показываем, как украсить страницу к празднику и поздравить близких.\nВстречаем День России новым экраном загрузки — он будет доступен в приложении для iOS и Android до 14 июня. Логотип с флагом появится в последней версии приложения, не забудьте обновить.\nДобавили тематический подарок ко Дню России...",
+    "is_pinned": false
+   },
+   {
+    "access_key": "95ba9a851b761ea0be",
+    "id": 355343,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1780068124,
+     "id": 457374097,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 41,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=160x0"
+      },
+      {
+       "height": 361,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=640x0"
+      },
+      {
+       "height": 609,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=1080x0"
+      },
+      {
+       "height": 722,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=1280x0"
+      },
+      {
+       "height": 1150,
+       "type": "w",
+       "width": 2040,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=2040x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=240x0"
+      },
+      {
+       "height": 203,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ&cs=540x0"
+      },
+      {
+       "height": 1150,
+       "type": "base",
+       "width": 2040,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "52f239d8ec25cbdfb2",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1150,
+      "type": "base",
+      "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/sz1ScfpQbacfO7eM5NnNFqLr4tnZioPHImgD7uvhFxZkdg4_0E9UXSlBSt77EVQoKjECgnr8XNs1t6Iziwn-KFFt.jpg?quality=95&as=32x18,48x27,72x41,108x61,160x90,240x135,360x203,480x271,540x304,640x361,720x406,1080x609,1280x722,1440x812,2040x1150&from=bu&u=-7SXjeehzRvuVJ14rm5yZd8XyQZY94odIPPayJw9XdQ",
+      "width": 2040
+     }
+    },
+    "published_date": 1780066583,
+    "state": "available",
+    "subtitle": "К 1 июня ВКонтакте появились тематический фон мессенджера, подарки, заставка с детскими рисунками, шаблон для историй и тренд в клипах пр..",
+    "title": "День защиты детей ВКонтакте",
+    "url": "https://vk.ru/@vk-den-zaschity-detei-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-den-zaschity-detei-vkontakte",
+    "views": 200,
+    "shares": 4,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 27,
+    "lead_description": "К 1 июня ВКонтакте появились тематический фон мессенджера, подарки, заставка с детскими рисунками, шаблон для историй и тренд в клипах про детство. Запускаем выставку юных художников о технологиях будущего, альбом детских песен и эксклюзивную коллекцию мерча. Часть проектов помогает благотворительным фондам.\nЧтобы выбрать праздничный фон в мессенджере, откройте приложение → зайдите в чат → нажмите на имя собеседника → «Оформление чата» → «Детский».\nЕсли у вас нет детского фона, попробуйте очи..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "c0710c073b3a243451",
+    "id": 351518,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1777976461,
+     "id": 457373183,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=160x0"
+      },
+      {
+       "height": 359,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=640x0"
+      },
+      {
+       "height": 606,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=1080x0"
+      },
+      {
+       "height": 718,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=1280x0"
+      },
+      {
+       "height": 1080,
+       "type": "w",
+       "width": 1926,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=1926x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=360x0"
+      },
+      {
+       "height": 303,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0&cs=540x0"
+      },
+      {
+       "height": 1080,
+       "type": "base",
+       "width": 1926,
+       "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "434afd02bb3fe662d8",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1080,
+      "type": "base",
+      "url": "https://sun9-84.vkuserphoto.ru/s/v1/ig2/q2207e7j_mW40ZAgc_QP8Z6j_7bbCqBCLAMj3D8KAyOfsXc1dDlhTEjuyg0g2YjEKE46L3LtCF8Ssv_CQhLI3cFl.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,1080x606,1280x718,1440x807,1926x1080&from=bu&u=pGBIGPSga9Mvo89u7RLK3198HEqa28flIOfH2auOqK0",
+      "width": 1926
+     }
+    },
+    "published_date": 1777903367,
+    "state": "available",
+    "subtitle": "Ко Дню Победы в Великой Отечественной войне в социальной сети появились тематические активности, сервисы и подарки. Показываем, как можно..",
+    "title": "День Победы ВКонтакте",
+    "url": "https://vk.ru/@vk-den-pobedy-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-den-pobedy-vkontakte",
+    "views": 3504,
+    "shares": 4,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 28,
+    "lead_description": "Ко Дню Победы в Великой Отечественной войне в социальной сети появились тематические активности, сервисы и подарки. Показываем, как можно украсить страницу к празднику, почтить память героев прошлого и поздравить близких.\nВстречаем 9 Мая новым экраном загрузки — он будет доступен до 13 мая. Логотип с георгиевской лентой появится в последней версии приложения — не забудьте обновить. \nДобавили подарок ко Дню Победы: поздравьте друзей значком с георгиевской лентой. Дарите три раза бесплатно, дал..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "b95487342cd1b05283",
+    "id": 349459,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1776443171,
+     "id": 457372318,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=1280x0"
+      },
+      {
+       "height": 1080,
+       "type": "w",
+       "width": 1920,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=1920x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg&cs=540x0"
+      },
+      {
+       "height": 1080,
+       "type": "base",
+       "width": 1920,
+       "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "f5609f63c706bc0e4b",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1080,
+      "type": "base",
+      "url": "https://sun9-61.vkuserphoto.ru/s/v1/ig2/SMZ386jB2FUbHBjKWCyTOd-KRsxRzAVluhD0Bfqfit17jJq7FCXwR5uzxZ37z1sexQRem6wjWWqSlf5FEJZSgbN4.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=EBlytRSYAJpVsCDMbx4ovzFyeN7vBECbs_uj7w0XrPg",
+      "width": 1920
+     }
+    },
+    "published_date": 1776442177,
+    "state": "available",
+    "subtitle": "Проверьте себя на грамотность и обязательно приходите на «Тотальный диктант» в следующем году 💙",
+    "title": "Тотальный диктант 2026",
+    "url": "https://vk.ru/@vk-totalnyi-diktant-2026",
+    "view_url": "https://m.vk.ru/@vk-totalnyi-diktant-2026",
+    "views": 11187,
+    "shares": 175,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 107,
+    "lead_description": "Проверьте себя на грамотность и обязательно приходите на «Тотальный диктант» в следующем году 💙\nПУШКИН. ФАМИЛИЯ\nЧасть 1. Белая девочка\nПрадед Пушкина по материнской линии Абрам Петрович Ганнибал был родом из Эфиопии. Причудливая судьба африканского мальчика, попавшего в Россию и сделавшегося крестником и наперсником русского царя, в общих чертах всем нам хорошо известна. О его личной, семейной жизни знают гораздо меньше, а между тем она оказалась в высшей степени драматична и отнюдь не похожа..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "0347190a96bb533889",
+    "id": 347404,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1775552510,
+     "id": 457371979,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=1280x0"
+      },
+      {
+       "height": 1440,
+       "type": "w",
+       "width": 2560,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=2560x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs&cs=540x0"
+      },
+      {
+       "height": 1440,
+       "type": "base",
+       "width": 2560,
+       "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "3da526486c1a201666",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1440,
+      "type": "base",
+      "url": "https://sun9-70.vkuserphoto.ru/s/v1/ig2/r-X7cUnrWiBCmUags2M8h9tconyRaGvZ8n23JFXHXBTt4NVLxZG0mXSDin-TRMxky_WW6nAAgtco5KH3C1afbthW.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&u=KVF88Q6Qy3fFD505dwPSfeoFhPfbjRwn4zSknvd-mEs",
+      "width": 2560
+     }
+    },
+    "published_date": 1775030358,
+    "state": "available",
+    "subtitle": "С 6 по 12 апреля ВКонтакте проходит Неделя космоса — собрали в этом обзоре звёздные активности и новые функции. Часть из них запустится р..",
+    "title": "Неделя космоса ВКонтакте",
+    "url": "https://vk.ru/@vk-nedelya-kosmosa-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-nedelya-kosmosa-vkontakte",
+    "views": 6982,
+    "shares": 2,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 32,
+    "lead_description": "С 6 по 12 апреля ВКонтакте проходит Неделя космоса — собрали в этом обзоре звёздные активности и новые функции. Часть из них запустится раньше, чтобы ваше космическое путешествие длилось дольше 💫\nКосмическая тема\nНеделя космоса начнётся… прямо с экрана загрузки приложения ВКонтакте! С 1 апреля в приложениях на iOS и Android временно появится звёздная тема. Вы сможете увидеть новое оформление, когда зайдёте ВКонтакте с телефона. Если тема не появилась, обновите приложение до последней версии...",
+    "is_pinned": false
+   },
+   {
+    "access_key": "6de3ffb716e3f5427c",
+    "id": 4281,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1526399642,
+     "id": 456265404,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "0a0cb0efa000572527",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-71.vkuserphoto.ru/s/v1/ig1/LWfalV8dWh8r3mA9jxFvHdkGlbOWa-Vxca2kSAKcvyy3ess-66gKpKBkliMyU4_Tb2c3rrpD.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=OJcZ7QILO3ygkFu-lsS805kbWmQEzKqVGPSW4n_liPs",
+      "width": 1280
+     }
+    },
+    "published_date": 1526398090,
+    "state": "available",
+    "subtitle": "ВКонтакте всегда развивалась по принципу открытости. Но, несмотря на эту открытость, вы сами вправе решать, какой информацией и с кем дел..",
+    "title": "Как управлять приватностью",
+    "url": "https://vk.ru/@vk-privacy",
+    "view_url": "https://m.vk.ru/@vk-privacy",
+    "views": 731781,
+    "shares": 2919,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 56,
+    "lead_description": "ВКонтакте всегда развивалась по принципу открытости. Но, несмотря на эту открытость, вы сами вправе решать, какой информацией и с кем делиться. Мы считаем, что каждый человек имеет право на личное пространство, поэтому ВКонтакте предоставляет предельно простые и понятные настройки приватности. \nПриватность публикаций\nЛюбую запись вы можете опубликовать для всех подписчиков и посетителей своей страницы либо же только для друзей. Чтобы ограничить приватность записи в веб-версии, нажмите на «зам..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "c5af943cfeaf087c56",
+    "id": 231282,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1705917042,
+     "id": 457346292,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "703798e8594c942433",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-83.vkuserphoto.ru/s/v1/ig2/ue3tgmUM3eU-AWOIQftxsjWhV0VbJvy_CJ9Glt5ZrDIs1WGYsObUu1FfbTuJKfF5Xe6sZIMnbxm_xUTY2OjVmtX9.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=UaElTUcFDayVegB-I-C6y647VgQlH6I7UZYjoUNxR6E",
+      "width": 1280
+     }
+    },
+    "published_date": 1705918004,
+    "state": "available",
+    "subtitle": "В феврале ВКонтакте обновит подход к модерации контента для сообществ: будет представлена гибкая система страйков. Администраторы смогут..",
+    "title": "Система модерации ВКонтакте станет прозрачной для авторов",
+    "url": "https://vk.ru/@vk-moderation-communities",
+    "view_url": "https://m.vk.ru/@vk-moderation-communities",
+    "views": 54193,
+    "shares": 113,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 27,
+    "lead_description": "В феврале ВКонтакте обновит подход к модерации контента для сообществ: будет представлена гибкая система страйков. Администраторы смогут видеть причину удаления спорного контента и получат возможность принять необходимые меры для того, чтобы избежать ограничений в будущем.\nСистема страйков — это предупреждения и ограничения разного уровня: от лимитов на публикацию до блокировки на разный срок. Сообщество получает страйк, если нарушает правила платформы. Чем больше нарушений, тем серьёзнее огр..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "f0ed3a74e3383444f8",
+    "id": 52134,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1555408519,
+     "id": 456297736,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=1280x0"
+      },
+      {
+       "height": 1080,
+       "type": "w",
+       "width": 1920,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=1920x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ&cs=540x0"
+      },
+      {
+       "height": 1080,
+       "type": "base",
+       "width": 1920,
+       "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "46937b114aa2e0e36c",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1080,
+      "type": "base",
+      "url": "https://sun9-56.vkuserphoto.ru/s/v1/ig1/Yj48oruDJtlVJK40d4fRMZ30_Dwel7t8AlULaDwK0B6pGIZpyRnjWR3DJhULT0gg2XvzTCNI.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=L9OVDNNIvlzRYnqVcDSkKQRiioE_OmKc9Ceccw0JEEQ",
+      "width": 1920
+     }
+    },
+    "published_date": 1555408608,
+    "state": "available",
+    "subtitle": "С помощью прямых трансляций Вы можете быстро делиться с подписчиками новостями из своей жизни и показывать друзьям всё, что Вас окружает...",
+    "title": "Делитесь ссылками в трансляциях",
+    "url": "https://vk.ru/@team-links-in-live-streams",
+    "view_url": "https://m.vk.ru/@team-links-in-live-streams",
+    "views": 2646830,
+    "shares": 2918,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 40,
+    "lead_description": "С помощью прямых трансляций Вы можете быстро делиться с подписчиками новостями из своей жизни и показывать друзьям всё, что Вас окружает. Если же у Вас есть свой бизнес, трансляции — один из самых простых способов ответить на вопросы клиентов и завоевать их доверие. Пара нажатий в мобильном приложении ВКонтакте — и Вы уже вещаете людям из разных концов света. \nТеперь Ваши эфиры станут ещё более увлекательными и интерактивными. Рассказывайте зрителям о себе и своих увлечениях с помощью ссылок..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "67f907dff1f7445520",
+    "id": 161738,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1664375424,
+     "id": 457333736,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "c2300db0ba324dba67",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-50.vkuserphoto.ru/s/v1/ig2/77cNcjB7DOmxombwMURPFr0hiG8RUOo71CqZdywMD9fByXYZIqLeqmUW4PjIJ0LCiz8VNDFlSc6EJu2kT4UzFHgj.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=KSnNEYJFAvmpELPRZk4sh7-9CN_XM44y3k0rUla78C8",
+      "width": 1280
+     }
+    },
+    "published_date": 1664375452,
+    "state": "available",
+    "subtitle": "Что случилось? ",
+    "title": "Подробнее о работе приложений VK на устройствах Apple",
+    "url": "https://vk.ru/@vk-app-ios",
+    "view_url": "https://m.vk.ru/@vk-app-ios",
+    "views": 453374,
+    "shares": 7220,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 36,
+    "lead_description": "Что случилось? \nСейчас некоторые приложения VK удалены компанией Apple, поэтому их не получится скачать или обновить в App Store. Мы направили запрос о предоставлении разъяснений в Apple. \nЧто будет с приложениями VK, которые уже установлены на iPhone или iPad?\nВсе приложения продолжат работать в обычном режиме. В последние месяцы реализованы ключевые обновления наших основных продуктов, которые позволят приложениям оставаться актуальными продолжительное время.\nМожно ли удалить или переустано..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "182863c3fc866b69aa",
+    "id": 143291,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1651826632,
+     "id": 457331496,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "2e4df933a46233fca4",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-82.vkuserphoto.ru/s/v1/ig2/BwcOOUZrCtOvLgnuqUL25XBNzPcYwJVwyx0VXUY0yyDODvM8cZNSAIQglPBMsLgqO84TH8ntz9e5OZFDN4cp2Soh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=xa6yhQNvRbWMFV_Q8VmX46gap5ZMa-YqvpXCIJQnqv8",
+      "width": 1280
+     }
+    },
+    "published_date": 1651826604,
+    "state": "available",
+    "subtitle": "Новый алгоритм рекомендаций в музыке, мобильное приложение для видеозвонков, кнопка для вопросов кому угодно и долгожданная тёмная тема н..",
+    "title": "Дайджест обновлений: апрель ’22",
+    "url": "https://vk.ru/@vk-daidzhest-aprel-22",
+    "view_url": "https://m.vk.ru/@vk-daidzhest-aprel-22",
+    "views": 8951,
+    "shares": 836,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 58,
+    "lead_description": "Новый алгоритм рекомендаций в музыке, мобильное приложение для видеозвонков, кнопка для вопросов кому угодно и долгожданная тёмная тема на вебе.\nМузыка\n«Слушайте друг друга»: новый алгоритм рекомендаций\nНа всех платформах и в приложении VK Музыка\nНовый алгоритм рекомендаций находит и предлагает вам плейлисты людей, чьи вкусы похожи на ваш. Вы даже увидите, насколько совпадаете: на 75, 87 или все 98%. Персональная подборка плейлистов ждёт в блоке «Слушайте друг друга» и обновляется каждый день..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "88f6dc39300b660a74",
+    "id": 139040,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1647627366,
+     "id": 457329617,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "186a0cb7ce6f952ece",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-66.vkuserphoto.ru/s/v1/ig2/7xUBD5C8-fC8o3hgfvYg9YhZMl2qrRmN0OAWPlfcR3UQWYqM8nNgkkKu5H1ojG55bZOD6dMJXc2tDysU96dM0SWh.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=DGMnmegkPAqHU0Plgj5_7ps2Nfms6V7JvoDQEY-fx5w",
+      "width": 1280
+     }
+    },
+    "published_date": 1647627370,
+    "state": "available",
+    "subtitle": "Содержание:",
+    "title": "Что есть ВКонтакте?",
+    "url": "https://vk.ru/@vk-chto-est-vkontakte",
+    "view_url": "https://m.vk.ru/@vk-chto-est-vkontakte",
+    "views": 164985,
+    "shares": 65,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 161,
+    "lead_description": "Содержание:\n📍 Как обратиться в Поддержку?\n📍 Что я вижу при входе ВКонтакте?\n📍 Профиль: где находится профиль и его настройки? Как обезопасить свой аккаунт?\n📍 Какие есть форматы контента?\n📍 Друзья и подписчики: в чём отличие?\n📍 Что можно делать в мессенджере?\n📍 Что полезного есть в VK Звонках?\n📍 Какие бывают сообщества и как их создавать?\n📍 Что такое вкладка «‎Сервисы»‎?\n📍 Музыка: как отключить рекламу? Где искать интересную музыку?\n📍 Зачем мне подписка VK Combo и сколько стоит её оформить?\n📍..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "e1c89a0e61ecc69a28",
+    "id": 138849,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1647436484,
+     "id": 457329479,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "e80e54f13d1f2c259c",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-7.vkuserphoto.ru/s/v1/ig2/geT0EvBGUPY-O3Mq3bFAkF7FzfkoLM6WvGyTlUwdugxcwu0DSfTvcpdAyuTVdnQDpT8UEmaNhSA39Cdjo1FBfOpW.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=6tDdSvXvbulxpcS5CGnrntXeWcOcOl-ynSVrjnP7_AQ",
+      "width": 1280
+     }
+    },
+    "published_date": 1647436504,
+    "state": "available",
+    "subtitle": "Избегаем ненужного внимания",
+    "title": "Как настроить приватность и усилить защиту профиля: три совета",
+    "url": "https://vk.ru/@vk-security-privacy",
+    "view_url": "https://m.vk.ru/@vk-security-privacy",
+    "views": 27055,
+    "shares": 3738,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 40,
+    "lead_description": "Избегаем ненужного внимания\nВ настройках вашего профиля есть раздел «Приватность». В нём вы можете ограничить круг тех, кто сможет писать вам сообщения, оставлять комментарии на стене или видеть основную информацию вашей страницы. \nНапример, при желании альбом с сохранёнными фотографиями можно показывать только друзьям. А переписываться при этом с любыми пользователями ВКонтакте. \nОтдельные настройки не зависят друг от друга, поэтому вы можете подобрать любой удобный режим приватности. Если н..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "a4f956b23ba77b6ade",
+    "id": 137777,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1645085482,
+     "id": 457328441,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=1280x0"
+      },
+      {
+       "height": 1080,
+       "type": "w",
+       "width": 1920,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=1920x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE&cs=540x0"
+      },
+      {
+       "height": 1080,
+       "type": "base",
+       "width": 1920,
+       "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "45ccae8081eb6178fe",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1080,
+      "type": "base",
+      "url": "https://sun9-39.vkuserphoto.ru/s/v1/ig2/k_5x8yCI5iX9gEo_i72Cf58cJFYL5Su-wfh29i6yQ7SwcJU8l6UXjYCH4QWAg9wZwHoIedeMBH1mEsjV2oFspG62.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1920x1080&from=bu&u=GeuVDX6G7XVxhkV7PfgCrWhY47oV47wnn-xaAgwjbjE",
+      "width": 1920
+     }
+    },
+    "published_date": 1645082923,
+    "state": "available",
+    "subtitle": "Истории — это просто. Особенно когда есть идеи по их созданию. Советы — это напоминалка о важных датах, событиях и воспоминаниях, которым..",
+    "title": "Советы для историй",
+    "url": "https://vk.ru/@vk-advice",
+    "view_url": "https://m.vk.ru/@vk-advice",
+    "views": 56287,
+    "shares": 33,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 31,
+    "lead_description": "Истории — это просто. Особенно когда есть идеи по их созданию. Советы — это напоминалка о важных датах, событиях и воспоминаниях, которыми вы можете поделиться со своими друзьями. В этой статье вы найдёте все виды советов и сможете публиковать самые классные истории для подписчиков и друзей. \nКакие бывают советы?\nВоспоминания\nРасскажите друзьям о своей записи, которую опубликовали год назад, оставьте подпись к ней прямо в истории — при помощи инструмента текста в правом верхнем углу. Вы может..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "d21dc7b7841ed9d81d",
+    "id": 128464,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1633949491,
+     "id": 457323979,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 55,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=72x0"
+      },
+      {
+       "height": 123,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=160x0"
+      },
+      {
+       "height": 492,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=640x0"
+      },
+      {
+       "height": 831,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=1080x0"
+      },
+      {
+       "height": 985,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=1280x0"
+      },
+      {
+       "height": 1154,
+       "type": "w",
+       "width": 1500,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=1500x0"
+      },
+      {
+       "height": 83,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=108x0"
+      },
+      {
+       "height": 185,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=240x0"
+      },
+      {
+       "height": 277,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=360x0"
+      },
+      {
+       "height": 415,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY&cs=540x0"
+      },
+      {
+       "height": 1154,
+       "type": "base",
+       "width": 1500,
+       "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "1a96cca332a6ab6f40",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 1154,
+      "type": "base",
+      "url": "https://sun9-49.vkuserphoto.ru/s/v1/ig2/P0St-NG1BXVBT9EFr2v3DQ1yVEqSdRdyZCllFVVGhzx3cK6krrxfatJjqxuiHVAP7YvcKkVDMdpIRUuH0yUr6-3X.jpg?quality=96&as=32x25,48x37,72x55,108x83,160x123,240x185,360x277,480x369,540x415,640x492,720x554,1080x831,1280x985,1440x1108,1500x1154&from=bu&u=e5H-NIJLxTT7sIvY0S43EtNZFHsU9fUyKqqXeT6WMUY",
+      "width": 1500
+     }
+    },
+    "published_date": 1633949530,
+    "state": "available",
+    "subtitle": "Каждый день мы вызываем такси, заказываем еду, общаемся ВКонтакте. Причём меняем устройства: заходим с телефона, планшета, компьютера. И..",
+    "title": "Знакомимся с VK ID",
+    "url": "https://vk.ru/@vk-znakomimsya-s-vk-id",
+    "view_url": "https://m.vk.ru/@vk-znakomimsya-s-vk-id",
+    "views": 19023477,
+    "shares": 1531,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 54,
+    "lead_description": "Каждый день мы вызываем такси, заказываем еду, общаемся ВКонтакте. Причём меняем устройства: заходим с телефона, планшета, компьютера. И раз за разом нам приходится вводить логин и пароль на разных сайтах и в приложениях, а потом по отдельности менять настройки.\nСкоро вы забудете об этих сложностях. Ваш аккаунт ВКонтакте сможет больше благодаря единой учётной записи — VK ID. С ней вы будете входить в разные сервисы одним нажатием, управлять настройками всех подключённых сайтов и приложений из..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "1f2aa39180ea6a3310",
+    "id": 44706,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "photo": {
+     "album_id": -66,
+     "date": 1552302569,
+     "id": 456296831,
+     "owner_id": -22822305,
+     "sizes": [
+      {
+       "height": 40,
+       "type": "s",
+       "width": 72,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=72x0"
+      },
+      {
+       "height": 90,
+       "type": "m",
+       "width": 160,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=160x0"
+      },
+      {
+       "height": 360,
+       "type": "x",
+       "width": 640,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=640x0"
+      },
+      {
+       "height": 607,
+       "type": "y",
+       "width": 1080,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=1080x0"
+      },
+      {
+       "height": 720,
+       "type": "z",
+       "width": 1280,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=1280x0"
+      },
+      {
+       "height": 720,
+       "type": "w",
+       "width": 1280,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=1280x0"
+      },
+      {
+       "height": 61,
+       "type": "o",
+       "width": 108,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=108x0"
+      },
+      {
+       "height": 135,
+       "type": "p",
+       "width": 240,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=240x0"
+      },
+      {
+       "height": 202,
+       "type": "q",
+       "width": 360,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=360x0"
+      },
+      {
+       "height": 304,
+       "type": "r",
+       "width": 540,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w&cs=540x0"
+      },
+      {
+       "height": 720,
+       "type": "base",
+       "width": 1280,
+       "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w"
+      }
+     ],
+     "text": "",
+     "user_id": 100,
+     "web_view_token": "1cd6bb19942b03e674",
+     "has_tags": false,
+     "orig_photo": {
+      "height": 720,
+      "type": "base",
+      "url": "https://sun9-15.vkuserphoto.ru/s/v1/ig1/FPS5YJnVnMMbO2HXEb4a46UAJvZGFFpG5gy5ghxULeDvKOgn3rYegETXLetQpCbKon2PJLWg.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&u=AhSKDYek11UuG-JLXAwDcdEW_yBbEBfQn-DaFBxf19w",
+      "width": 1280
+     }
+    },
+    "published_date": 1552298128,
+    "state": "available",
+    "subtitle": "Воспитывать талантливых разработчиков — настоящее искусство. Оно требует самоотдачи, творческого подхода и огромного труда. Чтобы поддерж..",
+    "title": "VK Fellowship: стипендия для тех, кто учит кодить",
+    "url": "https://vk.ru/@team-fellowship-2019",
+    "view_url": "https://m.vk.ru/@team-fellowship-2019",
+    "views": 272967,
+    "shares": 2039,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 68,
+    "lead_description": "Воспитывать талантливых разработчиков — настоящее искусство. Оно требует самоотдачи, творческого подхода и огромного труда. Чтобы поддержать тех, кто развивает IT-образование, в прошлом году мы запустили VK Fellowship — стипендиальную программу для преподавателей информатики и программирования. \nСегодня мы начинаем принимать заявки на участие во втором наборе VK Fellowship. 15 лауреатов получат стипендии в размере 120 тысяч рублей, а также примут участие в двух образовательных школах. \nКак ро..",
+    "is_pinned": false
+   },
+   {
+    "access_key": "6bb24a20f5f03d570a",
+    "id": 112,
+    "owner_id": -22822305,
+    "owner_name": "ВКонтакте",
+    "owner_photo": "https://sun9-37.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=jgDY8EzFMlbTbozm-VCpPddrQ6kL3cw5igOCd1ChaMI&cs=200x200",
+    "published_date": 1516815290,
+    "state": "available",
+    "subtitle": "Правда ли, что музыка ВКонтакте стала платной? ",
+    "title": "Ответы на вопросы о музыке ВКонтакте",
+    "url": "https://vk.ru/@team-music",
+    "view_url": "https://m.vk.ru/@team-music",
+    "views": 304831,
+    "shares": 117406,
+    "can_report": true,
+    "no_footer": false,
+    "time_to_read": 57,
+    "lead_description": "Правда ли, что музыка ВКонтакте стала платной? \nЭто не так. Вы можете слушать музыку без подписки — бесплатно, но с некоторыми ограничениями. Например, при воспроизведении треков в свёрнутом мобильном приложении или при заблокированном телефоне. Платная подписка снимает все ограничения, но её оформление не является обязательным для прослушивания музыки ВКонтакте. \nПочему появились ограничения? \nВКонтакте становится полностью легальной площадкой, поэтому мы соблюдаем требования, принятые в муз..",
+    "is_pinned": false
+   }
+  ]
+ }
+}

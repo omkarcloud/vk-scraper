@@ -1,0 +1,30 @@
+{
+ "response": [
+  {
+   "id": 3,
+   "domain": "id3",
+   "photo_200": "https://sun9-46.vkuserphoto.ru/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=200x200",
+   "photo_max": "https://sun9-46.vkuserphoto.ru/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=200x200",
+   "has_photo": 0,
+   "cover": {
+    "enabled": 0
+   },
+   "can_post": 0,
+   "can_write_private_message": 0,
+   "site": "",
+   "is_nft": false,
+   "sex": 0,
+   "screen_name": "id3",
+   "photo_50": "https://sun9-46.vkuserphoto.ru/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=50x50",
+   "photo_100": "https://sun9-46.vkuserphoto.ru/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI&cs=100x100",
+   "photo_base": "https://sun9-46.vkuserphoto.ru/impg/_nb2NhfE_jv_qxgCOx2FOjBdyXDTRZoApoB7ow/mLrG7mi-98Y.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=027f3a6ab46c06112aaff21998198fb8&u=Gsgve_JGBJIKsdpKeqSEdgzA8QnKETeW3ILhU4seZNI",
+   "online": 0,
+   "friend_status": 0,
+   "deactivated": "deleted",
+   "first_name": "DELETED",
+   "last_name": "",
+   "can_access_closed": true,
+   "is_closed": false
+  }
+ ]
+}

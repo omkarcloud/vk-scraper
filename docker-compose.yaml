@@ -1,0 +1,11 @@
+services:
+  vk-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — VK answers plain connections, so leave these unset.
+      # - VK_PROXY=http://user:pass@host:port
+      # - VK_FALLBACK_PROXY=http://user:pass@host:port

@@ -1,0 +1,33 @@
+{
+ "response": {
+  "catalog": {
+   "default_section": "PUldVA8WDBQpHhkFakcOBzQIASlDBjQRIwlLWhcBSVxkNF9FFxhJX2RRWFoXA0lcZBETB0RMEx8_WltFAQFdUX5SS1oXB1pEfEkcGFFRDQ8oDg1UGRZYX2RRX0AGBV9Sf1NZQwUFW1F1WlBDBBhJV3VJUy1oSQ",
+   "sections": [
+    {
+     "id": "PUldVA8WDBQpHhkFakcOBzQIASlDBjQRIwlLWhcBSVxkNF9FFxhJX2RRWFoXA0lcZBETB0RMEx8_WltFAQFdUX5SS1oXB1pEfEkcGFFRDQ8oDg1UGRZYX2RRX0AGBV9Sf1NZQwUFW1F1WlBDBBhJV3VJUy1oSQ",
+     "title": "",
+     "blocks": [
+      {
+       "id": "PUlQVA8GR0R3W0tMF0QHByUOARlZUA4UGQ4EBkFNNBUjChsVXRZHRHFJU1RPThoXPhMQDwQGWFJzXV5ODBZHRHdYS0xOFgkDKAgBG1RGADklCh0XWVsMOTISGRMXDkkBNAQcBkZrGAMnGQoeakJZOTEOC1QZFgkDKAgBG1RGADk0DhgDUEcfAyI0GhNWQAIJKDQAEhcOSRUjChsVXWsZAzceDAVBFkdENQ4KAlxbBTkgGQYbalYHCSUANh9RFlFEZBZFVAEWUUQhGQYDRUc0FSMKGxVdax1UGRwMFBcYSVdzSVNHSA",
+       "data_type": "placeholder",
+       "layout": {
+        "name": "placeholder_small"
+       },
+       "placeholder_ids": [
+        "PUlYTxcOSRYqCgoTXVsHAiMZNh9ZWA4BJwc2B0BRGR9kR0tEBRZRRGRHS0QEFlFENQ4IBFZcNAcqBzYYWkA0ACkeBxIXGElUdElTVBdJ"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "albums": [],
+  "placeholders": [
+   {
+    "title": "",
+    "id": "PUlYTxcOSRYqCgoTXVsHAiMZNh9ZWA4BJwc2B0BRGR9kR0tEBRZRRGRHS0QEFlFENQ4IBFZcNAcqBzYYWkA0ACkeBxIXGElUdElTVBdJ",
+    "text": "Your search returned no results"
+   }
+  ]
+ }
+}

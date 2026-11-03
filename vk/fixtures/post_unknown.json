@@ -1,0 +1,42 @@
+{
+ "response": {
+  "items": [
+   {
+    "inner_type": "wall_wallpost",
+    "marked_as_ads": 0,
+    "type": "post",
+    "is_deleted": true,
+    "deleted_reason": "Post deleted",
+    "deleted_details": "",
+    "date": 1294050542,
+    "from_id": -22822305,
+    "header": {
+     "photo": {
+      "source_id": -22822305
+     },
+     "title": {
+      "source_id": -22822305
+     },
+     "descriptions": []
+    },
+    "id": 1,
+    "owner_id": -22822305,
+    "text": "Post deleted "
+   }
+  ],
+  "profiles": [],
+  "groups": [
+   {
+    "id": 22822305,
+    "name": "ВКонтакте",
+    "screen_name": "vk",
+    "is_closed": 0,
+    "type": "page",
+    "photo_50": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=50x50",
+    "photo_100": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=100x100",
+    "photo_200": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=200x200",
+    "photo_base": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0"
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "response": {
+  "count": 1,
+  "items": [
+   {
+    "id": 1736043,
+    "from_id": -22822305,
+    "date": 1793700552,
+    "text": "[id709642415|Людмила Симакова], чтобы мы могли лучше разобраться в ситуации, не могли бы вы прислать скриншоты ваших шагов? Это поможет нам понять, в чем может быть дело и быстрее найти решение.\n\nЕсли вам нужна помощь с созданием снимков экрана, вы можете ознакомиться с инструкцией по этой ссылке: vk.ru/faq18297 https://vk.com/faq18297",
+    "post_id": 1736006,
+    "owner_id": -22822305,
+    "parents_stack": [
+     1736040
+    ],
+    "likes": {
+     "can_like": 1,
+     "count": 0,
+     "user_likes": 0,
+     "can_like_by_group": 0,
+     "group_liked": false
+    },
+    "is_from_post_author": true
+   }
+  ],
+  "profiles": [],
+  "groups": [
+   {
+    "id": 22822305,
+    "name": "ВКонтакте",
+    "screen_name": "vk",
+    "is_closed": 0,
+    "type": "page",
+    "photo_100": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=100x100",
+    "photo_base": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0"
+   }
+  ],
+  "current_level_count": 1,
+  "can_post": true,
+  "show_reply_button": true,
+  "groups_can_post": true,
+  "order": "asc",
+  "post_author_id": -22822305
+ }
+}

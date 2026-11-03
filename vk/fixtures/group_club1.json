@@ -1,0 +1,199 @@
+{
+ "response": {
+  "groups": [
+   {
+    "id": 1,
+    "description": "Все новости про API ВКонтакте теперь в сообществе VK Mini Apps: ищите по тегу #vkapi@vkappsdev\n\nГруппа посвящена разработке приложений на основе платформы ВКонтакте API и всему, что с ней связано.\n\nAPI позволяет создавать интересные, интерактивные и популярные приложения. Встроенные средства монетизации позволяют приносить доход разработчикам приложений, начиная с первых дней запуска.\n\nЕсли у вас возник вопрос или проблема, связанная с приложениями, а не с их созданием - обратитесь в службу поддержки: https://vk.ru/support?act=home. Там помогут, тут нет.\n\n№ 5110598753",
+    "members_count": 10198,
+    "members_count_text": "10,198 followers",
+    "counters": [],
+    "cover": {
+     "enabled": 1,
+     "images": [
+      {
+       "url": "https://sun9-62.vkuserphoto.ru/c638219/v638219852/26f71/W_aCePDx5ow.jpg",
+       "width": 200,
+       "height": 50
+      },
+      {
+       "url": "https://sun9-7.vkuserphoto.ru/c638219/v638219852/26f70/RRoDSPY3ui4.jpg",
+       "width": 400,
+       "height": 101
+      },
+      {
+       "url": "https://sun9-4.vkuserphoto.ru/c638219/v638219852/26f6d/HOzjTV7fXM4.jpg",
+       "width": 795,
+       "height": 200
+      },
+      {
+       "url": "https://sun9-63.vkuserphoto.ru/c638219/v638219852/26f6f/iJi9_sN-vBQ.jpg",
+       "width": 1080,
+       "height": 272
+      },
+      {
+       "url": "https://sun9-55.vkuserphoto.ru/c638219/v638219852/26f6e/kaqlcu640J0.jpg",
+       "width": 1590,
+       "height": 400
+      }
+     ]
+    },
+    "activity": "VK",
+    "has_photo": 1,
+    "crop_photo": {
+     "photo": {
+      "album_id": -6,
+      "date": 1489595640,
+      "id": 456239099,
+      "owner_id": -1,
+      "sizes": [
+       {
+        "height": 72,
+        "type": "s",
+        "width": 72,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=72x0"
+       },
+       {
+        "height": 160,
+        "type": "m",
+        "width": 160,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=160x0"
+       },
+       {
+        "height": 600,
+        "type": "x",
+        "width": 600,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=600x0"
+       },
+       {
+        "height": 600,
+        "type": "y",
+        "width": 600,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=600x0"
+       },
+       {
+        "height": 108,
+        "type": "o",
+        "width": 108,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=108x0"
+       },
+       {
+        "height": 240,
+        "type": "p",
+        "width": 240,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=240x0"
+       },
+       {
+        "height": 360,
+        "type": "q",
+        "width": 360,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=360x0"
+       },
+       {
+        "height": 540,
+        "type": "r",
+        "width": 540,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0&cs=540x0"
+       },
+       {
+        "height": 600,
+        "type": "base",
+        "width": 600,
+        "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0"
+       }
+      ],
+      "square_crop": "20,20,560",
+      "text": "",
+      "user_id": 100,
+      "web_view_token": "273f06f35c8cfd947c",
+      "has_tags": false,
+      "orig_photo": {
+       "height": 600,
+       "type": "base",
+       "url": "https://sun1-89.vkuserphoto.ru/s/v1/ig1/o-4lqcgxX8EDDKNqtcaucWaW3VY4YvQts7jDPbNUINgcZ7RhU_3wP0WU6v8QQA5oZMNmX1uP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&u=geLJTU3Wl9DOYvwSuBu0WFbXTQtKKDIURZbD0Eeted0",
+       "width": 600
+      }
+     },
+     "crop": {
+      "x": 3.33,
+      "y": 3.33,
+      "x2": 96.67,
+      "y2": 96.67
+     },
+     "rect": {
+      "x": 0.0,
+      "y": 0.0,
+      "x2": 100.0,
+      "y2": 100.0
+     }
+    },
+    "status": "Платформа для разработчиков приложений",
+    "links": [
+     {
+      "name": "VK API Change Log",
+      "desc": "Все обновления платформы",
+      "id": 14022416,
+      "photo_100": "https://sun1-20.vkuserphoto.ru/s/v1/ig1/yDadbkX1BknbVhcuH0U7StXmIytQmFfoYHxt8klx9PyxelZWJumY9DdWLywnlWhLDoiC6E4X.jpg?quality=96&crop=0,0,600,600&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=vfuWGRsoMXx_0CvCGb29nCPttF-ymz4adg05FCbC-YE&cs=100x100",
+      "photo_50": "https://sun1-20.vkuserphoto.ru/s/v1/ig1/yDadbkX1BknbVhcuH0U7StXmIytQmFfoYHxt8klx9PyxelZWJumY9DdWLywnlWhLDoiC6E4X.jpg?quality=96&crop=0,0,600,600&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=vfuWGRsoMXx_0CvCGb29nCPttF-ymz4adg05FCbC-YE&cs=50x50",
+      "url": "https://vk.ru/api_updates"
+     },
+     {
+      "name": "Официальный клуб разработчиков игр ВКонтакте",
+      "desc": "Закрытый клуб разработчиков",
+      "edit_title": 1,
+      "id": 3932101,
+      "photo_100": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/yDySFlimihpc2OAmREfapK6sZcGhDQqs6ZZSxzsH0mSckMDpD4CfocQKvrxSaKBJMdajV0bNbsCAR0Me2ehCYzhB.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=VbIlQbLzfqOGWYEY6aCo2e6VhvSZElWVyzWjtYubUa0&cs=100x100",
+      "photo_50": "https://sun1-25.vkuserphoto.ru/s/v1/ig2/yDySFlimihpc2OAmREfapK6sZcGhDQqs6ZZSxzsH0mSckMDpD4CfocQKvrxSaKBJMdajV0bNbsCAR0Me2ehCYzhB.jpg?quality=95&crop=0,0,800,800&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&u=VbIlQbLzfqOGWYEY6aCo2e6VhvSZElWVyzWjtYubUa0&cs=50x50",
+      "url": "https://vk.ru/gamedev"
+     },
+     {
+      "name": "Команда ВКонтакте",
+      "desc": "Оперативные новости из первых рук",
+      "id": 16725503,
+      "photo_100": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=100x100",
+      "photo_50": "https://sun1-20.vkuserphoto.ru/s/v1/ig2/zDEG4UdMqCoj41uKsL1KQ3cepVDkLGH4V57MvA0NacpzvjOVtBy8uqRFnr-o-lMrZfiGQEBv8QCQCcwtERcsCQAd.jpg?quality=95&crop=0,0,540,540&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=w4lyJ1rEItcMNKOj_JzH2bLrPwA4cEvI4ghdnNK4Vx0&cs=50x50",
+      "url": "https://vk.ru/team"
+     }
+    ],
+    "contacts": [],
+    "wall": 2,
+    "site": "dev.vk.ru",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": true,
+     "main_address_id": 2200,
+     "main_address": {
+      "id": 2200,
+      "address": "ВКонтакте API",
+      "city": {
+       "id": 2,
+       "title": "Saint Petersburg"
+      },
+      "country": {
+       "id": 1,
+       "title": "Russia"
+      },
+      "title": "ВКонтакте API",
+      "work_info_status": "no_information"
+     },
+     "count": 1
+    },
+    "menu": {
+     "items": [],
+     "is_hidden": false,
+     "can_add": false
+    },
+    "is_government_organization": false,
+    "name": "ВКонтакте API",
+    "screen_name": "club1",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 1,
+    "photo_50": "https://sun9-66.vkuserphoto.ru/s/v1/ig1/bKwbZiUrzAuwLvFgAQ4fg1GnhGA8rbqWBKbu32Q3xO6-B231OjWkFcjt7tBNmJ0NWhMMwSh-.jpg?quality=96&crop=20,20,560,560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=DbXMtjofcuB7BciKYZ36UhIqQlr1NteM78iCtywaBXs&cs=50x50",
+    "photo_100": "https://sun9-66.vkuserphoto.ru/s/v1/ig1/bKwbZiUrzAuwLvFgAQ4fg1GnhGA8rbqWBKbu32Q3xO6-B231OjWkFcjt7tBNmJ0NWhMMwSh-.jpg?quality=96&crop=20,20,560,560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=DbXMtjofcuB7BciKYZ36UhIqQlr1NteM78iCtywaBXs&cs=100x100",
+    "photo_200": "https://sun9-66.vkuserphoto.ru/s/v1/ig1/bKwbZiUrzAuwLvFgAQ4fg1GnhGA8rbqWBKbu32Q3xO6-B231OjWkFcjt7tBNmJ0NWhMMwSh-.jpg?quality=96&crop=20,20,560,560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=DbXMtjofcuB7BciKYZ36UhIqQlr1NteM78iCtywaBXs&cs=200x200",
+    "photo_base": "https://sun9-66.vkuserphoto.ru/s/v1/ig1/bKwbZiUrzAuwLvFgAQ4fg1GnhGA8rbqWBKbu32Q3xO6-B231OjWkFcjt7tBNmJ0NWhMMwSh-.jpg?quality=96&crop=20,20,560,560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&u=DbXMtjofcuB7BciKYZ36UhIqQlr1NteM78iCtywaBXs"
+   }
+  ],
+  "profiles": []
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "response": {
+  "count": 1,
+  "items": [
+   {
+    "id": 665,
+    "address": "Невский пр. 28",
+    "city": {
+     "id": 2,
+     "title": "Saint Petersburg"
+    },
+    "country": {
+     "id": 1,
+     "title": "Russia"
+    },
+    "latitude": 59.93562,
+    "longitude": 30.325884,
+    "open_status": {
+     "style": "unknown",
+     "primary_text": "Working hours not provided",
+     "secondary_text": ""
+    },
+    "title": "Главный Штаб",
+    "work_info_status": "no_information"
+   }
+  ]
+ }
+}

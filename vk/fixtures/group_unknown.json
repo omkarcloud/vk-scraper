@@ -1,0 +1,38 @@
+{
+ "response": {
+  "groups": [
+   {
+    "id": 99999999999,
+    "description": "",
+    "members_count": 0,
+    "members_count_text": "0 followers",
+    "counters": [],
+    "cover": {
+     "enabled": 0
+    },
+    "activity": "Private community",
+    "has_photo": 0,
+    "status": "",
+    "links": [],
+    "wall": 0,
+    "site": "",
+    "trending": 0,
+    "addresses": {
+     "is_enabled": false,
+     "has_addresses": false
+    },
+    "is_government_organization": false,
+    "name": "",
+    "screen_name": "club99999999999",
+    "is_closed": 0,
+    "type": "group",
+    "verified": 0,
+    "photo_50": "https://sun1-87.vkuserphoto.ru/impg/9FmuZgmL8ElIl3ap2VNqqvCJuR3XBTRcL5RstQ/IkJdt6c43WI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=80af15cf714eb8b0c9b0fb180d3fb037&u=2YEVTlkKBuNPY0mjMeXr7QUGKVqyKPrs2k12FX4q3nE&cs=50x50",
+    "photo_100": "https://sun1-87.vkuserphoto.ru/impg/9FmuZgmL8ElIl3ap2VNqqvCJuR3XBTRcL5RstQ/IkJdt6c43WI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=80af15cf714eb8b0c9b0fb180d3fb037&u=2YEVTlkKBuNPY0mjMeXr7QUGKVqyKPrs2k12FX4q3nE&cs=100x100",
+    "photo_200": "https://sun1-87.vkuserphoto.ru/impg/9FmuZgmL8ElIl3ap2VNqqvCJuR3XBTRcL5RstQ/IkJdt6c43WI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=80af15cf714eb8b0c9b0fb180d3fb037&u=2YEVTlkKBuNPY0mjMeXr7QUGKVqyKPrs2k12FX4q3nE&cs=200x200",
+    "photo_base": "https://sun1-87.vkuserphoto.ru/impg/9FmuZgmL8ElIl3ap2VNqqvCJuR3XBTRcL5RstQ/IkJdt6c43WI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&sign=80af15cf714eb8b0c9b0fb180d3fb037&u=2YEVTlkKBuNPY0mjMeXr7QUGKVqyKPrs2k12FX4q3nE"
+   }
+  ],
+  "profiles": []
+ }
+}
