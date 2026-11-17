@@ -31,7 +31,7 @@ ads_easy_promote, attachments_meta, push_subscription, header, stats_pixels,
 tracking_info, timeline_thumbs, response_type, ov_id, can_* flags) dropped.
 """
 import html as html_lib
-import json
+import fastjson
 import re
 
 from himalayas.shared import epoch_to_iso
@@ -1143,7 +1143,7 @@ def _ld_json(html):
     if not match:
         return {}
     try:
-        data = json.loads(match.group(1))
+        data = fastjson.loads(match.group(1))
     except ValueError:
         return {}
     return data if isinstance(data, dict) else {}

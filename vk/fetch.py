@@ -5,9 +5,11 @@ mints for logged-out visitors. No login, no cookies, no browser.
 Egress: the pod's own IP by default (config.vk_proxy(), knob VK_EXIT) —
 every surface passed from the pod on 2026-11-03 (table in config.py). A
 retryable failure drops the thread's session; a block (403 / 429 / a
-challenge page / VK's rate-limit error codes) also puts the thread's next
+challenge page / VK's rate-limit error codes) also puts every thread's next
 sessions on the fallback exit (config.vk_block_proxy()) for
-config.VK_BLOCK_HOLD_S seconds.
+config.VK_BLOCK_HOLD_S seconds: since 2026-11-11 the shared gateway exit
+(VK_FALLBACK_EXIT = "gateway", the US one — there is no gateway region in Russia),
+with a datacenter exit as the last retry of a call the gateway also failed.
 
 Upstream surfaces:
 
@@ -116,6 +118,12 @@ _hold = {"until": 0.0}   # process-wide: a block anywhere moves every NEW sessio
 
 
 def _proxy_for_new_session():
+    """The exit of the thread's next session: config.vk_proxy(); the block
+    tier (config.vk_block_proxy(): the gateway exit over the pod's own IP)
+    while a hold runs; a datacenter exit for the last retry of a call the
+    gateway failed (_retrying)."""
+    if getattr(_local, "last_resort", False):
+        return config.vk_block_proxy(last=True)
     if time.time() < _hold["until"]:
         return config.vk_block_proxy()
     return config.vk_proxy()
@@ -123,14 +131,16 @@ def _proxy_for_new_session():
 
 def _session():
     sess = getattr(_local, "session", None)
+    if sess is not None and getattr(_local, "held", False) and time.time() >= _hold["until"]:
+        _drop_session()         # the hold is over: back to the configured exit
+        sess = None
     if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
         proxy = _proxy_for_new_session()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
+        sess = egress.new_session(proxy, impersonate=IMPERSONATE)     # None, a proxy URL, or the gateway exit ("gateway")
         sess.headers["accept-language"] = egress.accept_language(proxy)
         _local.session = sess
+        _local.proxy = proxy
+        _local.held = time.time() < _hold["until"] and not getattr(_local, "last_resort", False)
     return sess
 
 
@@ -139,6 +149,8 @@ def _drop_session():
     and the next call opens a fresh exit."""
     sess = getattr(_local, "session", None)
     _local.session = None
+    _local.proxy = None
+    _local.held = False
     if sess is not None:
         try:
             sess.close()
@@ -152,19 +164,31 @@ def _note_block():
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (VkUpstreamError only;
-    NotFound / BadRequest surface immediately)."""
+    NotFound / BadRequest surface immediately). When the attempt before the
+    last one failed on the gateway exit (the block tier), the last retry
+    rides a datacenter exit: a gateway problem degrades to the
+    pre-2026-11-11 behaviour. The token mint runs nested inside a call's
+    attempt (get_token): it keeps the caller's last-retry exit."""
     last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except VkUpstreamError as e:
-            last = e
-            if isinstance(e, VkBlocked):
-                _note_block()
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    outer_last = getattr(_local, "last_resort", False)
+    try:
+        for attempt in range(1, config.MAX_RETRIES + 1):
+            try:
+                return fn()
+            except VkUpstreamError as e:
+                last = e
+                if isinstance(e, VkBlocked):
+                    _note_block()
+                on_gateway = bool(config.gateway_exit(getattr(_local, "proxy", None)))
+                _drop_session()
+                if attempt < config.MAX_RETRIES:
+                    _local.last_resort = outer_last or (on_gateway and attempt + 1 == config.MAX_RETRIES)     # the session _session() builds next
+                    time.sleep(config.RETRY_BACKOFF * attempt)
+        raise last
+    finally:
+        if not outer_last and getattr(_local, "last_resort", False):
+            _local.last_resort = False
+            _drop_session()         # the next call starts on the tier of the moment again
 
 
 def _looks_like_challenge(text, url=""):

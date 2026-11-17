@@ -41,7 +41,13 @@ def vk_proxy():
     return os.environ.get("VK_PROXY") or None
 
 
-def vk_block_proxy():
+def vk_block_proxy(*args, **kwargs):
     """The proxy new sessions use for VK_BLOCK_HOLD_S seconds after a block
     (VK_FALLBACK_PROXY, else VK_PROXY, else direct)."""
     return os.environ.get("VK_FALLBACK_PROXY") or os.environ.get("VK_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+def gateway_exit(exit=None):
+    return None
+

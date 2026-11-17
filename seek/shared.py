@@ -3,60 +3,20 @@ text, dates, site links, salary labels and HTML descriptions. Pure
 functions, no network; every helper tolerates None and junk.
 
 The generic helpers (g / as_list / as_dict, num ... iso_date) mirror
-indeed/parsers.py and indeed/shared.py with the same semantics; they live
-here so the seek package stands alone (it ships as its own open-source
-repo, which must not pull in other sites' modules)."""
-import html as html_lib
+indeed/parsers.py and indeed/shared.py with the same semantics; the ones every
+site shares come from scraper_utils and the rest live here (the seek package
+ships as its own open-source repo, which must not pull in other sites'
+modules)."""
 import re
 from datetime import datetime
 from html.parser import HTMLParser
 
 from seek import refdata
-
-# ---- safe access ---------------------------------------------------------------------------
-
-def g(obj, *path, default=None):
-    """Safe nested get: g(d, "a", "b", 0) -> d["a"]["b"][0] or default."""
-    for step in path:
-        if isinstance(step, int):
-            if not isinstance(obj, list) or not -len(obj) <= step < len(obj):
-                return default
-            obj = obj[step]
-        else:
-            if not isinstance(obj, dict):
-                return default
-            obj = obj.get(step)
-        if obj is None:
-            return default
-    return obj
-
-
-def as_list(value):
-    return value if isinstance(value, list) else []
-
-
-def as_dict(value):
-    return value if isinstance(value, dict) else {}
-
+from scraper_utils.values import as_dict, as_list, g, num, to_int_round as to_int
+from scraper_utils.text import clean as text, html_to_text, lower_snake, multiline
+from scraper_utils.dates import iso_date
 
 # ---- numbers -------------------------------------------------------------------------------
-
-def num(value):
-    """int / float / numeric string ('1,234.5') -> float; bool, junk, NaN -> None."""
-    if value is None or isinstance(value, bool):
-        return None
-    if isinstance(value, (int, float)):
-        return float(value) if value == value else None
-    try:
-        out = float(str(value).strip().replace(",", ""))
-    except ValueError:
-        return None
-    return out if out == out else None
-
-
-def to_int(value):
-    out = num(value)
-    return int(round(out)) if out is not None else None
 
 
 def rounded(value, digits=2):
@@ -80,46 +40,9 @@ def rating(value):
 
 # ---- text ----------------------------------------------------------------------------------
 
-def text(value):
-    """Whitespace-collapsed, HTML-unescaped string; '' -> None. Accepts
-    {"text": ...} wrappers."""
-    if isinstance(value, dict):
-        value = value.get("text")
-    if value is None:
-        return None
-    out = " ".join(html_lib.unescape(str(value)).replace("\xa0", " ").split())
-    return out or None
-
-
-def multiline(value):
-    """Like text() but keeps line breaks (review bodies, descriptions)."""
-    if isinstance(value, dict):
-        value = value.get("text")
-    if value is None:
-        return None
-    lines = [" ".join(line.split()) for line in html_lib.unescape(str(value)).replace("\xa0", " ").splitlines()]
-    out = "\n".join(lines)
-    out = re.sub(r"\n{3,}", "\n\n", out).strip()
-    return out or None
-
 
 _LONG_DATE_FORMATS = ("%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y", "%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y")
 
-
-def iso_date(value):
-    """'21 Sep 2026' / '2026-09-22T…' / 'September 22, 2026' -> 'YYYY-MM-DD'."""
-    value = text(value)
-    if not value:
-        return None
-    match = re.match(r"(\d{4})-(\d{2})-(\d{2})", value)
-    if match:
-        return "-".join(match.groups())
-    for fmt in _LONG_DATE_FORMATS:
-        try:
-            return datetime.strptime(value, fmt).strftime("%Y-%m-%d")
-        except ValueError:
-            continue
-    return None
 
 # ---- sites / links -------------------------------------------------------------------------
 
@@ -187,13 +110,6 @@ def iso_datetime(value):
 
 
 # ---- labels --------------------------------------------------------------------------------------
-
-def lower_snake(value):
-    """'Work/Life balance' / 'Benefits & perks' -> 'work_life_balance' / 'benefits_perks'."""
-    value = text(value)
-    if not value:
-        return None
-    return re.sub(r"[^a-z0-9]+", "_", value.lower()).strip("_") or None
 
 
 def seek_id(value):
@@ -274,56 +190,3 @@ def salary_from_label(label, currency_code=None):
 _BLOCK_TAGS = {"p", "div", "br", "li", "ul", "ol", "h1", "h2", "h3", "h4", "h5", "h6", "tr", "table",
                "section", "article", "header", "footer", "blockquote", "pre", "hr", "dd", "dt", "dl"}
 _SKIP_TAGS = {"script", "style", "noscript", "template", "head"}
-
-
-class _TextExtractor(HTMLParser):
-    def __init__(self):
-        super().__init__(convert_charrefs=True)
-        self.parts = []
-        self._skip = 0
-
-    def handle_starttag(self, tag, attrs):
-        if tag in _SKIP_TAGS:
-            self._skip += 1
-        elif tag == "li":
-            self.parts.append("\n- ")
-        elif tag == "br":
-            self.parts.append("\n")
-        elif tag in _BLOCK_TAGS:
-            self.parts.append("\n")
-
-    def handle_endtag(self, tag):
-        if tag in _SKIP_TAGS:
-            self._skip = max(0, self._skip - 1)
-        elif tag in ("li", "br"):
-            return
-        elif tag in ("ul", "ol"):
-            self.parts.append("\n\n")      # a list ends its paragraph
-        elif tag in _BLOCK_TAGS:
-            self.parts.append("\n")
-
-    def handle_data(self, data):
-        if not self._skip:
-            self.parts.append(data)
-
-
-def html_to_text(value):
-    """An HTML fragment -> readable plain text: block elements become line
-    breaks, list items get a dash, runs of blank lines collapse."""
-    value = value if isinstance(value, str) else None
-    if not value:
-        return None
-    if "<" not in value:
-        return multiline(value)
-    parser = _TextExtractor()
-    try:
-        parser.feed(value)
-        parser.close()
-    except Exception:
-        return multiline(re.sub(r"<[^>]+>", " ", value))
-    raw = "".join(parser.parts).replace("\xa0", " ")
-    lines = [" ".join(line.split()) for line in raw.splitlines()]
-    out = "\n".join(lines)
-    out = re.sub(r"\n{3,}", "\n\n", out)
-    out = re.sub(r"\n\n(- )", r"\n\1", out).strip()   # list items stay tight
-    return out or None
