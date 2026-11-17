@@ -49,6 +49,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import sessions
 
 IMPERSONATE = "chrome"
 API = "https://web.api.vk.ru"
@@ -151,11 +152,7 @@ def _drop_session():
     _local.session = None
     _local.proxy = None
     _local.held = False
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.close_quietly(sess)
 
 
 def _note_block():

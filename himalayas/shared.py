@@ -8,9 +8,9 @@ import re
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
-from scraper_utils.values import as_dict, as_list, g, num, to_int_round as to_int
 from scraper_utils.text import clean as text, html_to_text, lower_snake, multiline
 from scraper_utils.dates import iso_date
+from scraper_utils.values import amount, as_dict, as_list, g, num, to_int_round as to_int
 
 SITE = "https://himalayas.app"
 
@@ -18,14 +18,6 @@ SITE = "https://himalayas.app"
 # Same semantics as seek/shared.py (the indeed/seek family); the ones every site shares come from
 # scraper_utils; the rest are copied, not imported, because the himalayas package ships as its own
 # open-source repo, which must not pull in other sites' modules.
-
-
-def amount(value):
-    """A money amount: whole numbers as int, others rounded to cents."""
-    out = num(value)
-    if out is None:
-        return None
-    return int(out) if float(out).is_integer() else round(out, 2)
 
 
 _LONG_DATE_FORMATS = ("%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y", "%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y")
